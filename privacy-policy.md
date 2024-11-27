@@ -37,4 +37,4 @@ _Last updated: November 27, 2024_
 
 ## Contact Us
 
-If you have any questions about this Privacy Policy, please contact us at [kaisenaiko@gmail.com].
+If you have any questions about this Privacy Policy, please contact us at [developer email](mailto:kaisenaiko@gmail.com).
