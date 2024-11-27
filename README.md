@@ -24,9 +24,6 @@
 
 We are committed to protecting your privacy. Please see our [Privacy Policy](https://zack-dev-cm.github.io/github-repo-sum.github.io/privacy-policy) for more details.
 
-## License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
 ## Contact
 
