@@ -4,7 +4,7 @@ title: "Resume & Portfolio"
 permalink: /resume-portfolio/
 ---
 
-# Hey there! I'm Zakhar
+# Hey there!
 
 I’m a deep learning and computer vision enthusiast who loves building things that *just might* make life easier—or at least more interesting. If you spot me squinting at a screen, I’m probably wrangling neural networks, tinkering with Chrome extensions, or figuring out how to make an AI agent tap around an Android screen all by itself. Here’s a quick peek at my journey and the things I’ve built along the way.
 
