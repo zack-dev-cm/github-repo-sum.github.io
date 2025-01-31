@@ -16,9 +16,9 @@ I’m a deep learning and computer vision enthusiast who loves building things t
 ## Toolbelt & Tech Playground
 
 - **Frameworks/Libraries**: PyTorch, TensorFlow, Keras, FastAI, OpenAI APIs, CLIP, Vision-Language foundation models.  
-- **Languages**: Primarily Python, with supporting roles from Dart (Flutter), Kotlin, Swift, and C++.  
+- **Languages**: Primarily Python, with supporting roles from Dart (Flutter), Kotlin/Java, Swift, and C++.  
 - **DevOps & Infra**: GCP, AWS, Docker, Kubernetes, Cloud Build, Cloud Run, and a dash of ML Ops for good measure.  
-- **Mobile & Embedded**: TFLite, CoreML, VisionOS for Apple Vision Pro.  
+- **Mobile & Embedded**: TFLite, CoreML, VisionOS.  
 
 ---
 
