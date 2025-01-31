@@ -30,8 +30,9 @@ A custom Android app that captures screenshots and sends them to vision-language
 - **Use Cases**: Automated testing, daily phone tasks, or exploring novel ways to control a device.
 
 **Demo Link**: [View GIF in Google Drive](https://drive.google.com/file/d/1hp_n09bnr2396x4biKYv54TdWvO9jdXN/view?usp=sharing)
+![Android Remote Control with VLM AI Agents](samples/android_become_human-ezgif.com-speed.gif "Android Remote Control with VLM AI Agents")
 
-*(Currently no local media file for the GIF. Please visit the Drive link.)*
+
 
 ---
 
@@ -48,7 +49,9 @@ Start or stop the neural network with your breath. “Start listening” might b
 Spin up an AI “character,” style them, or chat with them in Telegram. Perfect for marketing campaigns, creative collaborations, or just having fun with next-gen generative AI.
 
 [**Live Demo (Colab-based)**](https://adfeed-1095464065298.us-central1.run.app/)  
-**Video Link**: [View MP4 in Google Drive](https://drive.google.com/file/d/1kvg4gjCNFPmrI3URPsM3eIyQ_vqSk1Ow/view?usp=sharing)
+**Video Link**: [View MP4 with sound in Google Drive](https://drive.google.com/file/d/1kvg4gjCNFPmrI3URPsM3eIyQ_vqSk1Ow/view?usp=sharing)
+
+
 
 *(Local sample video: `samples/adfeed_her.mp4` — not directly embeddable in GitHub’s Markdown. Please see drive link above.)*
 
