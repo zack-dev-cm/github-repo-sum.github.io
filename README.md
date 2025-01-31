@@ -54,9 +54,6 @@ Spin up an AI “character,” style them, or chat with them in Telegram. Perfec
 ![Create & Chat: AI Fashion Models, Ad Campaigns, or Pokémon Buddies](samples/adfeed_her.gif "Create & Chat: AI Fashion Models, Ad Campaigns, or Pokémon Buddies")
 
 
-
-*(Local sample video: `samples/adfeed_her.mp4` — not directly embeddable in GitHub’s Markdown. Please see drive link above.)*
-
 ---
 
 ### 4. Label and Inpaint Anything in a Room Interior
