@@ -29,7 +29,7 @@ A custom Android app that captures screenshots and sends them to vision-language
 - **Real-Time**: Gets instructions from powerful server-based models.  
 - **Use Cases**: Automated testing, daily phone tasks, or exploring novel ways to control a device.
 
-**Demo Link**: [View GIF in Google Drive](https://drive.google.com/file/d/1hp_n09bnr2396x4biKYv54TdWvO9jdXN/view?usp=sharing)
+**Demo Link**: [View MP4  in Google Drive](https://drive.google.com/file/d/13UQTdBVsZwPclMOca6Nmaywk4BiRydbi/view?usp=sharing)
 ![Android Remote Control with VLM AI Agents](samples/android_become_human-ezgif.com-speed.gif "Android Remote Control with VLM AI Agents")
 
 
@@ -68,7 +68,8 @@ Label objects in a photo, then seamlessly inpaint them—complete with realistic
 - [Inpaint #2](https://drive.google.com/file/d/1xRmS8AXMJcmk-S0mth8yUQpltyfPkOSI/view?usp=sharing)  
 - [Inpaint #3](https://drive.google.com/file/d/18kD2cm0uYmzudvOqVFmtJ8ZCkEbqqIHc/view?usp=sharing)
 
-Sample images stored locally:
+<img src="samples/interior/marble_floor_w_reflections.png" width="480">
+<img src="samples/interior/download (81).png" width="480">
 
 | Original                                      | Another Example                                 |
 |----------------------------------------------|-------------------------------------------------|
@@ -107,7 +108,7 @@ AI app that identifies food items (packaged or fresh) and performs OCR on labels
 
 **Demo Link**: [View GIF in Google Drive](https://drive.google.com/file/d/1RRRVYH0DLILZX84v5x0boj68VfMqnWWf/view?usp=sharing)
 
-*(No local file for the demo. Please see drive link.)*
+
 
 ---
 
