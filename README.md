@@ -74,9 +74,8 @@ Sample images stored locally:
 ### 5. Estimate Golf Ball Trajectory
 Analyze your golf swing or build sports analytics solutions—this AI estimates the ball trajectory and more.
 
-**Video Link**: [View MP4 in Google Drive](https://drive.google.com/file/d/1ydD7KK8ZYQKVtEraxUbfLVlYsfHO8kh_/view?usp=sharing)  
+![Estimate Golf Ball Trajectory](samples/golf/1.png "Estimate Golf Ball Trajectory")
 
-*(Local screenshot stored in `samples/golf/Screenshot 2024-12-14 at 01.06.47.png`)*
 
 ---
 
