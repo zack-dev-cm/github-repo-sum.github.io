@@ -32,6 +32,8 @@ A custom Android app that captures screenshots and sends them to vision-language
 
 **Demo Link**: [View GIF in Google Drive](https://drive.google.com/file/d/1hp_n09bnr2396x4biKYv54TdWvO9jdXN/view?usp=sharing)  
 ![GIF](https://drive.google.com/uc?export=view&id=1hp_n09bnr2396x4biKYv54TdWvO9jdXN)
+<img src="https://drive.google.com/uc?export=view&id=1hp_n09bnr2396x4biKYv54TdWvO9jdXN" width="400" />
+
 
 
 ---
