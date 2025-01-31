@@ -7,7 +7,7 @@ I’m a deep learning and computer vision enthusiast who loves building things t
 ## Who I Am (in a Nutshell)
 
 - **Senior Deep Learning Engineer** with 5+ years of experience, focusing on everything from classification and segmentation to OCR and advanced multi-modal transformer models.  
-- **Upwork Top Rated Plus** contractor, recognized in the top 1% of AI developers, with 100% Job Success and \$200K+ in total earnings.  
+- **Upwork Top Rated Plus** contractor, recognized in the top 1% of AI developers, with 100% Job Success.
 - **Mentor & Teacher**: I’ve led corporate programs, taught undergraduates the fundamentals of computer vision, and discovered I really enjoy sharing knowledge.  
 - **Privacy & Security First**: I’m that person who doesn’t compromise on storing personal data. (My Chrome extensions do all their magic locally—no external servers, no sneaky data transfers!)
 
@@ -18,7 +18,7 @@ I’m a deep learning and computer vision enthusiast who loves building things t
 - **Frameworks/Libraries**: PyTorch, TensorFlow, Keras, FastAI, OpenAI APIs, CLIP, Vision-Language foundation models.  
 - **Languages**: Primarily Python, with supporting roles from Dart (Flutter), Kotlin/Java, Swift, and C++.  
 - **DevOps & Infra**: GCP, AWS, Docker, Kubernetes, Cloud Build, Cloud Run, and a dash of ML Ops for good measure.  
-- **Mobile & Embedded**: TFLite, CoreML, VisionOS.  
+- **Mobile & Embedded**: TFLite, CoreML, ONNX, etc.  
 
 ---
 
@@ -31,7 +31,7 @@ A custom Android app that captures screenshots and sends them to vision-language
 - **Use Cases**: Automated testing, daily phone tasks, or just messing around with new ways to control a device.
 
 **Demo Link**: [View GIF in Google Drive](https://drive.google.com/file/d/1hp_n09bnr2396x4biKYv54TdWvO9jdXN/view?usp=sharing)  
-[![Android Remote Control Placeholder](https://via.placeholder.com/400x250/000/fff?text=Android+Remote+Control)](https://drive.google.com/file/d/1hp_n09bnr2396x4biKYv54TdWvO9jdXN/view?usp=sharing)
+[![Android Remote Control](https://via.placeholder.com/400x250/000/fff?text=Android+Remote+Control)](https://drive.google.com/file/d/1hp_n09bnr2396x4biKYv54TdWvO9jdXN/view?usp=sharing)
 
 ---
 
@@ -39,7 +39,7 @@ A custom Android app that captures screenshots and sends them to vision-language
 Start or stop the neural network with your breath. “Start listening” might be 2–3 short exhalations, while a smooth exhalation says “stop.” It’s all about recognizing **breathing** patterns, not your voice. After calibration (reading text aloud vs. silently), it learns to detect words from the sounds of breathing or sniffles alone.
 
 **Demo Link**: [View GIF in Google Drive](https://drive.google.com/file/d/1H43aT5n8NWlOuTIWsJinssKRh1n3tiOM/view?usp=sharing)  
-[![Breathing Control Placeholder](https://via.placeholder.com/400x250/000/fff?text=Breathing+Control)](https://drive.google.com/file/d/1H43aT5n8NWlOuTIWsJinssKRh1n3tiOM/view?usp=sharing)
+[![Breathing Control](https://via.placeholder.com/400x250/000/fff?text=Breathing+Control)](https://drive.google.com/file/d/1H43aT5n8NWlOuTIWsJinssKRh1n3tiOM/view?usp=sharing)
 
 ---
 
@@ -49,7 +49,7 @@ Spin up an AI “character,” style them, or chat with them in Telegram. Perfec
 
 [**Live Demo (Colab-based)**](https://adfeed-1095464065298.us-central1.run.app/)  
 **Video Link**: [View MP4 in Google Drive](https://drive.google.com/file/d/1kvg4gjCNFPmrI3URPsM3eIyQ_vqSk1Ow/view?usp=sharing)  
-[![AI Fashion Placeholder](https://via.placeholder.com/400x250/000/fff?text=AI+Fashion+Demo)](https://drive.google.com/file/d/1kvg4gjCNFPmrI3URPsM3eIyQ_vqSk1Ow/view?usp=sharing)
+[![AI Fashion](https://via.placeholder.com/400x250/000/fff?text=AI+Fashion+Demo)](https://drive.google.com/file/d/1kvg4gjCNFPmrI3URPsM3eIyQ_vqSk1Ow/view?usp=sharing)
 
 ---
 
@@ -57,12 +57,12 @@ Spin up an AI “character,” style them, or chat with them in Telegram. Perfec
 Label objects in a photo, then seamlessly inpaint them—complete with realistic shadows and lighting for interior makeovers.
 
 **Inpainting Demos** (Google Drive links):  
-- [Original](https://drive.google.com/file/d/1XqQgbmBgTlRRdR-K3X4PHlSzrmiMUJgY/view?usp=sharing)  
+- [Segmentation](https://drive.google.com/file/d/1XqQgbmBgTlRRdR-K3X4PHlSzrmiMUJgY/view?usp=sharing)  
 - [Inpaint #1](https://drive.google.com/file/d/1dCkeI7Mi87cg2kOgY5UCLG-DiHkt358L/view?usp=sharing)  
 - [Inpaint #2](https://drive.google.com/file/d/1xRmS8AXMJcmk-S0mth8yUQpltyfPkOSI/view?usp=sharing)  
 - [Inpaint #3](https://drive.google.com/file/d/18kD2cm0uYmzudvOqVFmtJ8ZCkEbqqIHc/view?usp=sharing)
 
-[![Inpainting Placeholder](https://via.placeholder.com/600x150/000/fff?text=Room+Inpainting)](https://drive.google.com/file/d/1XqQgbmBgTlRRdR-K3X4PHlSzrmiMUJgY/view?usp=sharing)
+[![Inpainting](https://via.placeholder.com/600x150/000/fff?text=Room+Inpainting)](https://drive.google.com/file/d/1XqQgbmBgTlRRdR-K3X4PHlSzrmiMUJgY/view?usp=sharing)
 
 ---
 
@@ -70,7 +70,7 @@ Label objects in a photo, then seamlessly inpaint them—complete with realistic
 Analyze your golf swing or build sports analytics solutions—this AI estimates the ball trajectory and more.
 
 **Video Link**: [View MP4 in Google Drive](https://drive.google.com/file/d/1ydD7KK8ZYQKVtEraxUbfLVlYsfHO8kh_/view?usp=sharing)  
-[![Golf Placeholder](https://via.placeholder.com/400x250/000/fff?text=Golf+Trajectory)](https://drive.google.com/file/d/1ydD7KK8ZYQKVtEraxUbfLVlYsfHO8kh_/view?usp=sharing)
+[![Golf](https://via.placeholder.com/400x250/000/fff?text=Golf+Trajectory)](https://drive.google.com/file/d/1ydD7KK8ZYQKVtEraxUbfLVlYsfHO8kh_/view?usp=sharing)
 
 ---
 
@@ -92,7 +92,7 @@ AI app that identifies food items (packaged or fresh) and performs OCR on labels
 - **Cross-Platform**: iOS & Android.
 
 **Demo Link**: [View GIF in Google Drive](https://drive.google.com/file/d/1RRRVYH0DLILZX84v5x0boj68VfMqnWWf/view?usp=sharing)  
-[![Food Recognition Placeholder](https://via.placeholder.com/400x250/000/fff?text=Food+Recognition)](https://drive.google.com/file/d/1RRRVYH0DLILZX84v5x0boj68VfMqnWWf/view?usp=sharing)
+[![Food Recognition](https://via.placeholder.com/400x250/000/fff?text=Food+Recognition)](https://drive.google.com/file/d/1RRRVYH0DLILZX84v5x0boj68VfMqnWWf/view?usp=sharing)
 
 ---
 
@@ -137,7 +137,7 @@ I was too! So I built a nifty extension that adds a navigable scrollbar with cli
 - **Auto-Hide**: Keeps your screen tidy when you don’t need it.
 
 **Demo Link**: [View GIF in Google Drive](https://drive.google.com/file/d/1fhf6l85wv-uYGc_jqDdoEXHvDMYBLyH4/view?usp=sharing)  
-[![ChatGPT Scrollbar Placeholder](https://via.placeholder.com/400x250/000/fff?text=ChatGPT+Scrollbar)](https://drive.google.com/file/d/1fhf6l85wv-uYGc_jqDdoEXHvDMYBLyH4/view?usp=sharing)
+[![ChatGPT Scrollbar](https://via.placeholder.com/400x250/000/fff?text=ChatGPT+Scrollbar)](https://drive.google.com/file/d/1fhf6l85wv-uYGc_jqDdoEXHvDMYBLyH4/view?usp=sharing)
 
 [**ChatGPT Scrollbar on Chrome Web Store**](https://chromewebstore.google.com/detail/chatgpt-scrollbar/jnoonpeekddinkiecaonhocaflcgbhap?pli=1)
 
