@@ -74,8 +74,8 @@ Label objects in a photo, then seamlessly inpaint them—complete with realistic
 
 ---
 
-### 13. Smart Drive for Smart City: Predict Optimal Speed to the Nearest Traffic Light or Jam
-Made an application to find an optimal speed to the nearest traffic light.  
+### 5. Smart Drive for Smart City: Predict Optimal Speed to the Nearest Traffic Light or Jam
+Find an optimal speed to the nearest traffic light.  
 For example, you’re driving and you never know whether you should speed up a bit or slow down. The program predicts the ideal speed from your start to end point, calculating the optimal speed for each traffic light on the way. It can also predict the ideal speed to nearest traffic jams along the way.
 
 <img src="samples/smart_drive/smart_drive3.png" width="640" />
@@ -85,7 +85,7 @@ For example, you’re driving and you never know whether you should speed up a b
 
  ---
 
-### 5. Estimate Golf Ball Trajectory
+### 6. Estimate Golf Ball Trajectory
 Analyze your golf swing or build sports analytics solutions—this AI estimates the ball trajectory and more.
 
 ![Estimate Golf Ball Trajectory](samples/golf/1.png "Estimate Golf Ball Trajectory")
@@ -93,7 +93,7 @@ Analyze your golf swing or build sports analytics solutions—this AI estimates 
 
 ---
 
-### 6. Pixel-Wise Segmentation of Spare Parts for 3D Printing
+### 7. Pixel-Wise Segmentation of Spare Parts for 3D Printing
 Precisely identify which parts need 3D printing or rework.
 
 - [Segmentation #1](https://drive.google.com/file/d/1bAyEPYLbiETD0vKStnpB1VvzK1wKdKRv/view?usp=sharing)  
@@ -107,7 +107,7 @@ Local files:
 
 ---
 
-### 7. Food Recognition App
+### 8. Food Recognition App
 **When you want your phone to know what’s for dinner**  
 AI app that identifies food items (packaged or fresh) and performs OCR on labels.  
 - **Nutritional Info**: Extract brand names, nutrient data, and portion sizes.  
@@ -120,7 +120,7 @@ AI app that identifies food items (packaged or fresh) and performs OCR on labels
 
 ---
 
-### 8. Python Library: AutoToloka
+### 9. Python Library: AutoToloka
 **Speedy dataset prep & crowdsourcing**  
 A Python library to help set up and validate datasets, using interactive segmentation and multi-modal networks under the hood.  
 - **Reduces Labeling Costs**: Automates a chunk of manual labeling.  
@@ -130,21 +130,21 @@ A Python library to help set up and validate datasets, using interactive segment
 
 ---
 
-### 9. Python Library: shiftlab-ocr
+### 10. Python Library: shiftlab-ocr
 A library for handwriting text segmentation and character recognition.
 
 [**shiftlab-ocr on PyPI**](https://pypi.org/project/shiftlab-ocr/)
 
 ---
 
-### 10. Face Antispoofing & Multi-Modal Vision-Language Models
+### 11. Face Antispoofing & Multi-Modal Vision-Language Models
 Because cameras can be tricked sometimes, I experiment with CLIP and other multi-modal setups to detect spoofing in face authentication systems, bridging text-image embeddings with advanced, specialized neural networks.
 
 [**YouTube Presentation**](https://www.youtube.com/watch?v=jJnyj0OH0lk&t=285s&ab_channel=TolokaAI)
 
 ---
 
-### 11. GitHub Repo Summarizer (Chrome Extension)
+### 12. GitHub Repo Summarizer (Chrome Extension)
 **Speed-read your repositories**  
 Uses your locally stored GitHub personal access token to fetch and summarize code structure—**no servers** involved.  
 - **No Third-Party Sharing**: Token stays on your device.  
@@ -154,7 +154,7 @@ Uses your locally stored GitHub personal access token to fetch and summarize cod
 
 ---
 
-### 12. ChatGPT Scrollbar (Chrome Extension)
+### 13. ChatGPT Scrollbar (Chrome Extension)
 **Tired of scrolling forever through ChatGPT’s conversation feed?**  
 I was too! So I built a nifty extension that adds a navigable scrollbar with clickable dashes for quick jumps. Simple but oh-so-handy.  
 - **Local-Only Storage**: No external pings or data collection.  
