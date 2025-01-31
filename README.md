@@ -31,7 +31,7 @@ A custom Android app that captures screenshots and sends them to vision-language
 - **Use Cases**: Automated testing, daily phone tasks, or just messing around with new ways to control a device.
 
 **Demo Link**: [View GIF in Google Drive](https://drive.google.com/file/d/1hp_n09bnr2396x4biKYv54TdWvO9jdXN/view?usp=sharing)  
-[![Android Remote Control](https://via.placeholder.com/400x250/000/fff?text=Android+Remote+Control)](https://drive.google.com/file/d/1hp_n09bnr2396x4biKYv54TdWvO9jdXN/view?usp=sharing)
+[![Android Remote Control](https://via.placeholder.com/400x250/000/fff?text=Android+Remote+Control)](https://drive.google.com/uc?export=view&id=1hp_n09bnr2396x4biKYv54TdWvO9jdXN)
 
 ---
 
