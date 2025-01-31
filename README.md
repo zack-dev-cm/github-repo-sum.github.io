@@ -7,9 +7,8 @@ I’m a deep learning and computer vision enthusiast who loves building things t
 ## Who I Am (in a Nutshell)
 
 - **Senior Deep Learning Engineer** with 5+ years of experience, focusing on everything from classification and segmentation to OCR and multi-modal transformer reasoning models.  
-- **Upwork Top Rated Plus** contractor, recognized in the top 1% of AI developers, with 100% Job Success.
-- **Mentor & Teacher**: I’ve led corporate programs, taught undergraduates the fundamentals of computer vision, and discovered I really enjoy sharing knowledge.  
-
+- **Upwork Top Rated Plus** contractor, recognized in the top 1% of AI developers, with 100% Job Success.  
+- **Mentor & Teacher**: I’ve led corporate programs, taught undergraduates the fundamentals of computer vision, and discovered I really enjoy sharing knowledge.
 
 ---
 
@@ -18,23 +17,21 @@ I’m a deep learning and computer vision enthusiast who loves building things t
 - **Frameworks/Libraries**: PyTorch, TensorFlow, Keras, FastAI, OpenAI APIs, CLIP, Vision-Language foundation models.  
 - **Languages**: Primarily Python, with supporting roles from Dart (Flutter), Kotlin/Java, Swift, and C++.  
 - **DevOps & Infra**: GCP, AWS, Docker, Kubernetes, Cloud Build, Cloud Run, and a dash of ML Ops for good measure.  
-- **Mobile & Embedded**: TFLite, CoreML, ONNX, etc.  
+- **Mobile & Embedded**: TFLite, CoreML, ONNX, etc.
 
 ---
 
 ## Some Projects & Creations
 
-### 1. Android Remote Control with VLM AI Agents 
+### 1. Android Remote Control with VLM AI Agents
 **“Hands-free” Android automation? Yes, please.**  
 A custom Android app that captures screenshots and sends them to vision-language AI agents which figure out the next UI action—tap, swipe, or type.  
 - **Real-Time**: Gets instructions from powerful server-based models.  
-- **Use Cases**: Automated testing, daily phone tasks, or just messing around with new ways to control a device.
+- **Use Cases**: Automated testing, daily phone tasks, or exploring novel ways to control a device.
 
-**Demo Link**: [View GIF in Google Drive](https://drive.google.com/file/d/1hp_n09bnr2396x4biKYv54TdWvO9jdXN/view?usp=sharing)  
-![GIF](https://drive.google.com/uc?export=view&id=1hp_n09bnr2396x4biKYv54TdWvO9jdXN)
-<img src="https://drive.google.com/uc?export=view&id=1hp_n09bnr2396x4biKYv54TdWvO9jdXN" width="400" />
+**Demo Link**: [View GIF in Google Drive](https://drive.google.com/file/d/1hp_n09bnr2396x4biKYv54TdWvO9jdXN/view?usp=sharing)
 
-
+*(Currently no local media file for the GIF. Please visit the Drive link.)*
 
 ---
 
@@ -42,7 +39,7 @@ A custom Android app that captures screenshots and sends them to vision-language
 Start or stop the neural network with your breath. “Start listening” might be 2–3 short exhalations, while a smooth exhalation says “stop.” It’s all about recognizing **breathing** patterns, not your voice. After calibration (reading text aloud vs. silently), it learns to detect words from the sounds of breathing or sniffles alone.
 
 **Demo Link**: [View GIF in Google Drive](https://drive.google.com/file/d/1H43aT5n8NWlOuTIWsJinssKRh1n3tiOM/view?usp=sharing)  
-[![Breathing Control](https://via.placeholder.com/400x250/000/fff?text=Breathing+Control)](https://drive.google.com/file/d/1H43aT5n8NWlOuTIWsJinssKRh1n3tiOM/view?usp=sharing)
+![Breathing Control Demo](samples/mlbreath.gif "Breathing Control")
 
 ---
 
@@ -51,21 +48,26 @@ Start or stop the neural network with your breath. “Start listening” might b
 Spin up an AI “character,” style them, or chat with them in Telegram. Perfect for marketing campaigns, creative collaborations, or just having fun with next-gen generative AI.
 
 [**Live Demo (Colab-based)**](https://adfeed-1095464065298.us-central1.run.app/)  
-**Video Link**: [View MP4 in Google Drive](https://drive.google.com/file/d/1kvg4gjCNFPmrI3URPsM3eIyQ_vqSk1Ow/view?usp=sharing)  
-[![AI Fashion](https://via.placeholder.com/400x250/000/fff?text=AI+Fashion+Demo)](https://drive.google.com/file/d/1kvg4gjCNFPmrI3URPsM3eIyQ_vqSk1Ow/view?usp=sharing)
+**Video Link**: [View MP4 in Google Drive](https://drive.google.com/file/d/1kvg4gjCNFPmrI3URPsM3eIyQ_vqSk1Ow/view?usp=sharing)
+
+*(Local sample video: `samples/adfeed_her.mp4` — not directly embeddable in GitHub’s Markdown. Please see drive link above.)*
 
 ---
 
 ### 4. Label and Inpaint Anything in a Room Interior
 Label objects in a photo, then seamlessly inpaint them—complete with realistic shadows and lighting for interior makeovers.
 
-**Inpainting Demos** (Google Drive links):  
+**Inpainting Demos (Google Drive):**  
 - [Segmentation](https://drive.google.com/file/d/1XqQgbmBgTlRRdR-K3X4PHlSzrmiMUJgY/view?usp=sharing)  
 - [Inpaint #1](https://drive.google.com/file/d/1dCkeI7Mi87cg2kOgY5UCLG-DiHkt358L/view?usp=sharing)  
 - [Inpaint #2](https://drive.google.com/file/d/1xRmS8AXMJcmk-S0mth8yUQpltyfPkOSI/view?usp=sharing)  
 - [Inpaint #3](https://drive.google.com/file/d/18kD2cm0uYmzudvOqVFmtJ8ZCkEbqqIHc/view?usp=sharing)
 
-[![Inpainting](https://via.placeholder.com/600x150/000/fff?text=Room+Inpainting)](https://drive.google.com/file/d/1XqQgbmBgTlRRdR-K3X4PHlSzrmiMUJgY/view?usp=sharing)
+Sample images stored locally:
+
+| Original                                      | Another Example                                 |
+|----------------------------------------------|-------------------------------------------------|
+| <img src="samples/interior/1.png" width="200"> | <img src="samples/interior/2sample.png" width="200"> |
 
 ---
 
@@ -73,17 +75,22 @@ Label objects in a photo, then seamlessly inpaint them—complete with realistic
 Analyze your golf swing or build sports analytics solutions—this AI estimates the ball trajectory and more.
 
 **Video Link**: [View MP4 in Google Drive](https://drive.google.com/file/d/1ydD7KK8ZYQKVtEraxUbfLVlYsfHO8kh_/view?usp=sharing)  
-[![Golf](https://via.placeholder.com/400x250/000/fff?text=Golf+Trajectory)](https://drive.google.com/file/d/1ydD7KK8ZYQKVtEraxUbfLVlYsfHO8kh_/view?usp=sharing)
+
+*(Local screenshot stored in `samples/golf/Screenshot 2024-12-14 at 01.06.47.png`)*
 
 ---
 
 ### 6. Pixel-Wise Segmentation of Spare Parts for 3D Printing
-Precisely identify keys that need 3D printing or rework.
+Precisely identify which parts need 3D printing or rework.
 
 - [Segmentation #1](https://drive.google.com/file/d/1bAyEPYLbiETD0vKStnpB1VvzK1wKdKRv/view?usp=sharing)  
 - [Segmentation #2](https://drive.google.com/file/d/1xVEonSJ7jvnYSnQ6ztvFZy-Llf_dxSrP/view?usp=sharing)
 
-[![Keys](https://via.placeholder.com/400x250/000/fff?text=Spare+Parts+Segmentation)](https://drive.google.com/file/d/1bAyEPYLbiETD0vKStnpB1VvzK1wKdKRv/view?usp=sharing)
+Local files:
+
+| Example 1                                     | Example 2                                     |
+|----------------------------------------------|-----------------------------------------------|
+| <img src="samples/key_segm/download (61).png" width="200"> | <img src="samples/key_segm/download (62).png" width="200"> |
 
 ---
 
@@ -94,16 +101,17 @@ AI app that identifies food items (packaged or fresh) and performs OCR on labels
 - **Works in Real-Time**: Over 90% accuracy, optimized for CPU/GPU inference.  
 - **Cross-Platform**: iOS & Android.
 
-**Demo Link**: [View GIF in Google Drive](https://drive.google.com/file/d/1RRRVYH0DLILZX84v5x0boj68VfMqnWWf/view?usp=sharing)  
-[![Food Recognition](https://via.placeholder.com/400x250/000/fff?text=Food+Recognition)](https://drive.google.com/file/d/1RRRVYH0DLILZX84v5x0boj68VfMqnWWf/view?usp=sharing)
+**Demo Link**: [View GIF in Google Drive](https://drive.google.com/file/d/1RRRVYH0DLILZX84v5x0boj68VfMqnWWf/view?usp=sharing)
+
+*(No local file for the demo. Please see drive link.)*
 
 ---
 
 ### 8. Python Library: AutoToloka
 **Speedy dataset prep & crowdsourcing**  
 A Python library to help set up and validate datasets, using interactive segmentation and multi-modal networks under the hood.  
-- **Reduces Labeling Costs**: Automates a chunk of the manual labeling process.  
-- **Scalable**: Integrates easily with bigger pipeline tools, containerized deployments, and major cloud platforms.  
+- **Reduces Labeling Costs**: Automates a chunk of manual labeling.  
+- **Scalable**: Integrates easily with pipeline tools, containerized deployments, and major clouds.
 
 [**AutoToloka on PyPI**](https://pypi.org/project/autotoloka/)
 
@@ -140,7 +148,7 @@ I was too! So I built a nifty extension that adds a navigable scrollbar with cli
 - **Auto-Hide**: Keeps your screen tidy when you don’t need it.
 
 **Demo Link**: [View GIF in Google Drive](https://drive.google.com/file/d/1fhf6l85wv-uYGc_jqDdoEXHvDMYBLyH4/view?usp=sharing)  
-[![ChatGPT Scrollbar](https://via.placeholder.com/400x250/000/fff?text=ChatGPT+Scrollbar)](https://drive.google.com/file/d/1fhf6l85wv-uYGc_jqDdoEXHvDMYBLyH4/view?usp=sharing)
+![ChatGPT Scrollbar Demo](samples/scroller.gif "ChatGPT Scrollbar")
 
 [**ChatGPT Scrollbar on Chrome Web Store**](https://chromewebstore.google.com/detail/chatgpt-scrollbar/jnoonpeekddinkiecaonhocaflcgbhap?pli=1)
 
@@ -150,7 +158,7 @@ I was too! So I built a nifty extension that adds a navigable scrollbar with cli
 
 - **Top 1%** on Upwork for AI/ML tasks.  
 - **Mentored** teams at corporate events, universities, and School of AI chapters.  
-- **Hackathon Finalist** Digital Transformation, PicsArt AI.
+- **Hackathon Finalist**: Digital Transformation, PicsArt AI.
 
 [**See more on LinkedIn**](https://www.linkedin.com/in/zakhar-pashkin-a524a6163/)
 
