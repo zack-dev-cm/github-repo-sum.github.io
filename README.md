@@ -147,7 +147,7 @@ I was too! So I built a nifty extension that adds a navigable scrollbar with cli
 
 - **Top 1%** on Upwork for AI/ML tasks.  
 - **Mentored** teams at corporate events, universities, and School of AI chapters.  
-- **Hackathon Finalist**  
+- **Hackathon Finalist** Digital Transformation, PicsArt AI.
 
 [**See more on LinkedIn**](https://www.linkedin.com/in/zakhar-pashkin-a524a6163/)
 
