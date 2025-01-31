@@ -74,6 +74,17 @@ Label objects in a photo, then seamlessly inpaint them—complete with realistic
 
 ---
 
+### 13. Smart Drive for Smart City: Predict Optimal Speed to the Nearest Traffic Light or Jam
+Made an application to find an optimal speed to the nearest traffic light.  
+For example, you’re driving and you never know whether you should speed up a bit or slow down. The program predicts the ideal speed from your start to end point, calculating the optimal speed for each traffic light on the way. It can also predict the ideal speed to nearest traffic jams along the way.
+
+<img src="samples/smart_drive/smart_drive3.png" width="640" />
+
+---
+
+
+ ---
+
 ### 5. Estimate Golf Ball Trajectory
 Analyze your golf swing or build sports analytics solutions—this AI estimates the ball trajectory and more.
 
