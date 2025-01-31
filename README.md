@@ -1,10 +1,4 @@
----
-layout: page
-title: "Resume & Portfolio"
-permalink: /resume-portfolio/
----
-
-# Hey there!
+# Hey there! 
 
 I’m a deep learning and computer vision enthusiast who loves building things that *just might* make life easier—or at least more interesting. If you spot me squinting at a screen, I’m probably wrangling neural networks, tinkering with Chrome extensions, or figuring out how to make an AI agent tap around an Android screen all by itself. Here’s a quick peek at my journey and the things I’ve built along the way.
 
@@ -12,7 +6,7 @@ I’m a deep learning and computer vision enthusiast who loves building things t
 
 ## Who I Am (in a Nutshell)
 
-- **Senior Deep Learning Engineer** with 5+ years of experience, focusing on everything from classification and segmentation to OCR and advanced multi-modal models.  
+- **Senior Deep Learning Engineer** with 5+ years of experience, focusing on everything from classification and segmentation to OCR and advanced multi-modal transformer models.  
 - **Upwork Top Rated Plus** contractor, recognized in the top 1% of AI developers, with 100% Job Success and \$200K+ in total earnings.  
 - **Mentor & Teacher**: I’ve led corporate programs, taught undergraduates the fundamentals of computer vision, and discovered I really enjoy sharing knowledge.  
 - **Privacy & Security First**: I’m that person who doesn’t compromise on storing personal data. (My Chrome extensions do all their magic locally—no external servers, no sneaky data transfers!)
