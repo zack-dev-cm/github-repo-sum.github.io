@@ -9,7 +9,7 @@ I’m a deep learning and computer vision enthusiast who loves building things t
 - **Senior Deep Learning Engineer** with 5+ years of experience, focusing on everything from classification and segmentation to OCR and advanced multi-modal transformer models.  
 - **Upwork Top Rated Plus** contractor, recognized in the top 1% of AI developers, with 100% Job Success.
 - **Mentor & Teacher**: I’ve led corporate programs, taught undergraduates the fundamentals of computer vision, and discovered I really enjoy sharing knowledge.  
-- **Privacy & Security First**: I’m that person who doesn’t compromise on storing personal data. (My Chrome extensions do all their magic locally—no external servers, no sneaky data transfers!)
+
 
 ---
 
@@ -75,12 +75,12 @@ Analyze your golf swing or build sports analytics solutions—this AI estimates 
 ---
 
 ### 6. Pixel-Wise Segmentation of Spare Parts for 3D Printing
-Precisely identify which parts need 3D printing or rework.
+Precisely identify keys that need 3D printing or rework.
 
 - [Segmentation #1](https://drive.google.com/file/d/1bAyEPYLbiETD0vKStnpB1VvzK1wKdKRv/view?usp=sharing)  
 - [Segmentation #2](https://drive.google.com/file/d/1xVEonSJ7jvnYSnQ6ztvFZy-Llf_dxSrP/view?usp=sharing)
 
-[![Spare Parts Placeholder](https://via.placeholder.com/400x250/000/fff?text=Spare+Parts+Segmentation)](https://drive.google.com/file/d/1bAyEPYLbiETD0vKStnpB1VvzK1wKdKRv/view?usp=sharing)
+[![Keys](https://via.placeholder.com/400x250/000/fff?text=Spare+Parts+Segmentation)](https://drive.google.com/file/d/1bAyEPYLbiETD0vKStnpB1VvzK1wKdKRv/view?usp=sharing)
 
 ---
 
@@ -153,14 +153,14 @@ I was too! So I built a nifty extension that adds a navigable scrollbar with cli
 
 ---
 
-## Let’s Build Something Together
+## Let’s Build Something
 
 If you’re looking for:
 - **Custom AI solutions** (computer vision, NLP, or multi-modal)  
 - **Mobile & embedded model optimization**  
 - **ML Ops** for GCP/AWS or on-prem solutions  
 
-Then let’s talk! I love collaborating on anything that pushes boundaries or solves real-world headaches.
+Then let’s talk!
 
 **Email**: [kaisenaiko@gmail.com](mailto:kaisenaiko@gmail.com)  
 **GitHub**: [github.com/zack-dev-cm](https://github.com/zack-dev-cm)  
