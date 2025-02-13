@@ -51,7 +51,7 @@ Spin up an AI “character,” style them, dress, chat with them in Telegram or 
 [**Live Demo (Colab-based)**](https://adfeed-1095464065298.us-central1.run.app/)  
 **Video Link**: [View MP4 with sound in Google Drive](https://drive.google.com/file/d/1kvg4gjCNFPmrI3URPsM3eIyQ_vqSk1Ow/view?usp=sharing)
 
-![Create & Chat: AI Fashion Models, Ad Campaigns, or Pokémon Buddies](samples/adfeed_her.gif "Create & Chat: AI Fashion Models, Ad Campaigns, or Pokémon Buddies")
+![Create, Chat & AR experience with AI-character](samples/adfeed_her.gif "Create & Chat: AI Fashion Models, Ad Campaigns, or Pokémon Buddies")
 
 
 ---
