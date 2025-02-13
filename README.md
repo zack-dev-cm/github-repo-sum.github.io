@@ -44,9 +44,9 @@ Start or stop the neural network with your breath. “Start listening” might b
 
 ---
 
-### 3. Create & Chat: AI Fashion Models, Ad Campaigns, or Pokémon Buddies
-**Image & Video Generation • Inpainting • Reasoning & More**  
-Spin up an AI “character,” style them, or chat with them in Telegram. Perfect for marketing campaigns, creative collaborations, or just having fun with next-gen generative AI.
+### 3. Create, Chat & AR experience with AI-character
+**Image & Video Generation • Inpainting • TryOn • Reasoning & More**  
+Spin up an AI “character,” style them, dress, chat with them in Telegram or even place in your living room! Perfect for marketing campaigns, creative collaborations, or just having fun with next-gen generative AI.
 
 [**Live Demo (Colab-based)**](https://adfeed-1095464065298.us-central1.run.app/)  
 **Video Link**: [View MP4 with sound in Google Drive](https://drive.google.com/file/d/1kvg4gjCNFPmrI3URPsM3eIyQ_vqSk1Ow/view?usp=sharing)
