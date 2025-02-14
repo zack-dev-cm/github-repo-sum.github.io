@@ -44,7 +44,7 @@ Start or stop the neural network with your breath. “Start listening” might b
 
 ---
 
-### 3. Create, Chat & AR experience with AI-character
+### 3. Create, Chat & AR experience with AI-character. Text2Room
 **Image & Video Generation • Inpainting • TryOn • Reasoning & More**  
 Spin up an AI “character,” style them, dress, chat with them in Telegram or even place in your living room! Perfect for marketing campaigns, creative collaborations, or just having fun with next-gen generative AI.
 
