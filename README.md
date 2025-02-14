@@ -1,10 +1,10 @@
-# Hey there!
+# whoami
 
 I’m a deep learning and computer vision enthusiast who loves building things that *just might* make life easier—or at least more interesting. If you spot me squinting at a screen, I’m probably wrangling neural networks or figuring out how to make an AI agent tap around an Android screen all by itself. Here’s a quick peek at my journey and some of the projects I’ve built along the way.
 
 ---
 
-## Who I Am (in a Nutshell)
+## in a Nutshell
 
 - **Senior Deep Learning Engineer** with 5+ years of experience, focusing on everything from classification and segmentation to OCR and multi-modal transformer reasoning models.  
 - **Upwork Top Rated Plus** contractor, recognized in the top 1% of AI developers, with 100% Job Success.  
@@ -17,7 +17,7 @@ I’m a deep learning and computer vision enthusiast who loves building things t
 - **Frameworks/Libraries**: PyTorch, TensorFlow, Keras, FastAI, OpenAI APIs, CLIP, Vision-Language foundation models.  
 - **Languages**: Primarily Python, with supporting roles from Dart (Flutter), Kotlin/Java, Swift, and C++.  
 - **DevOps & Infra**: GCP, AWS, Docker, Kubernetes, Cloud Build, Cloud Run, and a dash of ML Ops for good measure.  
-- **Mobile & Embedded**: TFLite, CoreML, ONNX, etc.
+- **Mobile & Embedded**: TensoRT, TFLite, CoreML, ONNX, etc.
 
 ---
 
