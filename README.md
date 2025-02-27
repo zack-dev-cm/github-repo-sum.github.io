@@ -185,7 +185,10 @@ This nifty extension adds a navigable scrollbar with clickable dashes for quick 
 
 ---
 
-## Let’s Build Something
+## More Projects
+**GitHub**: [github.com/zack-dev-cm](https://github.com/zack-dev-cm)  
+**GitHub**: [github.com/ZackPashkin](https://github.com/ZackPashkin)
+
 
 If you’re looking for:
 
@@ -196,7 +199,5 @@ If you’re looking for:
 Then let’s talk!
 
 **Email**: [kaisenaiko@gmail.com](mailto:kaisenaiko@gmail.com)  
-**GitHub**: [github.com/zack-dev-cm](https://github.com/zack-dev-cm)  
-**GitHub**: [github.com/ZackPashkin](https://github.com/ZackPashkin)
 
 Thanks for stopping by. Let’s see where AI can take us next!
