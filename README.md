@@ -29,10 +29,10 @@ A custom Android app that captures screenshots and sends them to vision-language
 - **Real-Time**: Gets instructions from powerful server-based models.  
 - **Use Cases**: Automated testing, daily phone tasks, or exploring novel ways to control a device.
 
-**Demo Link**: [View MP4  in Google Drive](https://drive.google.com/file/d/13UQTdBVsZwPclMOca6Nmaywk4BiRydbi/view?usp=sharing)
+**Demo Link**: [View MP4 in Google Drive](https://drive.google.com/file/d/13UQTdBVsZwPclMOca6Nmaywk4BiRydbi/view?usp=sharing)  
+**External Link**: [android-remote-control](https://zack-dev-cm.github.io/github-repo-sum.github.io/android-remote-control)
+
 ![Android Remote Control with VLM AI Agents](samples/android_become_human-ezgif.com-speed.gif "Android Remote Control with VLM AI Agents")
-
-
 
 ---
 
@@ -40,19 +40,21 @@ A custom Android app that captures screenshots and sends them to vision-language
 Start or stop the neural network with your breath. “Start listening” might be 2–3 short exhalations, while a smooth exhalation says “stop.” It’s all about recognizing **breathing** patterns, not your voice. After calibration (reading text aloud vs. silently), it learns to detect words from the sounds of breathing or sniffles alone.
 
 **Demo Link**: [View GIF in Google Drive](https://drive.google.com/file/d/1H43aT5n8NWlOuTIWsJinssKRh1n3tiOM/view?usp=sharing)  
+**External Link**: [breath-control-vlm-llm](https://zack-dev-cm.github.io/github-repo-sum.github.io/breath-control-vlm-llm)
+
 ![Breathing Control Demo](samples/mlbreath.gif "Breathing Control")
 
 ---
 
-### 3. Create, Chat & AR experience with AI-character. Text2Room
+### 3. Create, Chat & AR Experience with AI-Character: Text2Room
 **Image & Video Generation • Inpainting • TryOn • Reasoning & More**  
-Spin up an AI “character,” style them, dress, chat with them in Telegram or even place in your living room! Perfect for marketing campaigns, creative collaborations, or just having fun with next-gen generative AI.
+Spin up an AI “character,” style them, dress them, chat with them in Telegram or even place them in your living room! Perfect for marketing campaigns, creative collaborations, or just having fun with next-gen generative AI.
 
 [**Live Demo (Colab-based)**](https://adfeed-1095464065298.us-central1.run.app/)  
-**Video Link**: [View MP4 with sound in Google Drive](https://drive.google.com/file/d/1kvg4gjCNFPmrI3URPsM3eIyQ_vqSk1Ow/view?usp=sharing)
+**Video Link**: [View MP4 with sound in Google Drive](https://drive.google.com/file/d/1kvg4gjCNFPmrI3URPsM3eIyQ_vqSk1Ow/view?usp=sharing)  
+**External Link**: [text2room](https://zack-dev-cm.github.io/github-repo-sum.github.io/text2room)
 
-![Create, Chat & AR experience with AI-character](samples/adfeed_her.gif "Create & Chat: AI Fashion Models, Ad Campaigns, or Pokémon Buddies")
-
+![Create, Chat & AR Experience with AI-Character](samples/adfeed_her.gif "Create & Chat: AI Fashion Models, Ad Campaigns, or Pokémon Buddies")
 
 ---
 
@@ -64,6 +66,8 @@ Label objects in a photo, then seamlessly inpaint them—complete with realistic
 - [Inpaint #1](https://drive.google.com/file/d/1dCkeI7Mi87cg2kOgY5UCLG-DiHkt358L/view?usp=sharing)  
 - [Inpaint #2](https://drive.google.com/file/d/1xRmS8AXMJcmk-S0mth8yUQpltyfPkOSI/view?usp=sharing)  
 - [Inpaint #3](https://drive.google.com/file/d/18kD2cm0uYmzudvOqVFmtJ8ZCkEbqqIHc/view?usp=sharing)
+
+**External Link**: [room-inpainting](https://zack-dev-cm.github.io/github-repo-sum.github.io/room-inpainting)
 
 <img src="samples/interior/marble_floor_w_reflections.png" width="480">
 <img src="samples/interior/download (81).png" width="480">
@@ -78,18 +82,18 @@ Label objects in a photo, then seamlessly inpaint them—complete with realistic
 Find an optimal speed to the nearest traffic light.  
 For example, you’re driving and you never know whether you should speed up a bit or slow down. The program predicts the ideal speed from your start to end point, calculating the optimal speed for each traffic light on the way. It can also predict the ideal speed to nearest traffic jams along the way.
 
+**External Link**: [smart-drive](https://zack-dev-cm.github.io/github-repo-sum.github.io/smart-drive)
+
 <img src="samples/smart_drive/smart_drive3.png" width="640" />
 
 ---
 
-
- ---
-
 ### 6. Estimate Golf Ball Trajectory
 Analyze your golf swing or build sports analytics solutions—this AI estimates the ball trajectory and more.
 
-![Estimate Golf Ball Trajectory](samples/golf/1.png "Estimate Golf Ball Trajectory")
+**External Link**: [golf-ball-trajectory](https://zack-dev-cm.github.io/github-repo-sum.github.io/golf-ball-trajectory)
 
+![Estimate Golf Ball Trajectory](samples/golf/1.png "Estimate Golf Ball Trajectory")
 
 ---
 
@@ -98,6 +102,8 @@ Precisely identify which parts need 3D printing or rework.
 
 - [Segmentation #1](https://drive.google.com/file/d/1bAyEPYLbiETD0vKStnpB1VvzK1wKdKRv/view?usp=sharing)  
 - [Segmentation #2](https://drive.google.com/file/d/1xVEonSJ7jvnYSnQ6ztvFZy-Llf_dxSrP/view?usp=sharing)
+
+**External Link**: [spare-parts-segmentation](https://zack-dev-cm.github.io/github-repo-sum.github.io/spare-parts-segmentation)
 
 Local files:
 
@@ -109,14 +115,13 @@ Local files:
 
 ### 8. Food Recognition App
 **When you want your phone to know what’s for dinner**  
-AI app that identifies food items (packaged or fresh) and performs OCR on labels.  
-- **Nutritional Info**: Extract brand names, nutrient data, and portion sizes.  
+An AI app that identifies food items (packaged or fresh) and performs OCR on labels.  
+- **Nutritional Info**: Extracts brand names, nutrient data, and portion sizes.  
 - **Works in Real-Time**: Over 90% accuracy, optimized for CPU/GPU inference.  
 - **Cross-Platform**: iOS & Android.
 
-**Demo Link**: [View GIF in Google Drive](https://drive.google.com/file/d/1RRRVYH0DLILZX84v5x0boj68VfMqnWWf/view?usp=sharing)
-
-
+**Demo Link**: [View GIF in Google Drive](https://drive.google.com/file/d/1RRRVYH0DLILZX84v5x0boj68VfMqnWWf/view?usp=sharing)  
+**External Link**: [food-recognition](https://zack-dev-cm.github.io/github-repo-sum.github.io/food-recognition)
 
 ---
 
@@ -126,21 +131,24 @@ A Python library to help set up and validate datasets, using interactive segment
 - **Reduces Labeling Costs**: Automates a chunk of manual labeling.  
 - **Scalable**: Integrates easily with pipeline tools, containerized deployments, and major clouds.
 
-[**AutoToloka on PyPI**](https://pypi.org/project/autotoloka/)
+[**AutoToloka on PyPI**](https://pypi.org/project/autotoloka/)  
+**External Link**: [autotoloka](https://zack-dev-cm.github.io/github-repo-sum.github.io/autotoloka)
 
 ---
 
 ### 10. Python Library: shiftlab-ocr
 A library for handwriting text segmentation and character recognition.
 
-[**shiftlab-ocr on PyPI**](https://pypi.org/project/shiftlab-ocr/)
+[**shiftlab-ocr on PyPI**](https://pypi.org/project/shiftlab-ocr/)  
+**External Link**: [shiftlab-ocr](https://zack-dev-cm.github.io/github-repo-sum.github.io/shiftlab-ocr)
 
 ---
 
 ### 11. Face Antispoofing & Multi-Modal Vision-Language Models
 Because cameras can be tricked sometimes, I experiment with CLIP and other multi-modal setups to detect spoofing in face authentication systems, bridging text-image embeddings with advanced, specialized neural networks.
 
-[**YouTube Presentation**](https://www.youtube.com/watch?v=jJnyj0OH0lk&t=285s&ab_channel=TolokaAI)
+[**YouTube Presentation**](https://www.youtube.com/watch?v=jJnyj0OH0lk&t=285s&ab_channel=TolokaAI)  
+**External Link**: [face-antispoofing](https://zack-dev-cm.github.io/github-repo-sum.github.io/face-antispoofing)
 
 ---
 
@@ -150,7 +158,8 @@ Uses your locally stored GitHub personal access token to fetch and summarize cod
 - **No Third-Party Sharing**: Token stays on your device.  
 - **Auto Summaries**: Quickly see how a repo is organized, from directories to major code files.
 
-[**GitHub Repo Summarizer**](https://chromewebstore.google.com/detail/github-repo-summarizer/ccikgbjalcbokaalidnfcjhhbhjoljfm)
+[**GitHub Repo Summarizer**](https://chromewebstore.google.com/detail/github-repo-summarizer/ccikgbjalcbokaalidnfcjhhbhjoljfm)  
+**External Link**: [github-repo-summarizer](https://zack-dev-cm.github.io/github-repo-sum.github.io/github-repo-summarizer)
 
 ---
 
@@ -161,9 +170,8 @@ I was too! So I built a nifty extension that adds a navigable scrollbar with cli
 - **Auto-Hide**: Keeps your screen tidy when you don’t need it.
 
 **Demo Link**: [View GIF in Google Drive](https://drive.google.com/file/d/1fhf6l85wv-uYGc_jqDdoEXHvDMYBLyH4/view?usp=sharing)  
-![ChatGPT Scrollbar Demo](samples/scroller.gif "ChatGPT Scrollbar")
-
-[**ChatGPT Scrollbar on Chrome Web Store**](https://chromewebstore.google.com/detail/chatgpt-scrollbar/jnoonpeekddinkiecaonhocaflcgbhap?pli=1)
+[**ChatGPT Scrollbar on Chrome Web Store**](https://chromewebstore.google.com/detail/chatgpt-scrollbar/jnoonpeekddinkiecaonhocaflcgbhap?pli=1)  
+**External Link**: [chatgpt-scrollbar](https://zack-dev-cm.github.io/github-repo-sum.github.io/chatgpt-scrollbar)
 
 ---
 
