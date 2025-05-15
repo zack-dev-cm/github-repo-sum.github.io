@@ -1,42 +1,50 @@
+# Privacy Policy – Chat Navigator Extension  
+_Last updated: 15 May 2025_
 
-# Privacy Policy for ChatGPT Scrollbar
+## 1.  Overview  
+Chat Navigator (“**the Extension**”) adds a custom scrollbar, prompt-autocomplete and (optionally) crowd-sourced **Trending Prompts** to ChatGPT, DeepSeek Chat and Google AI Studio. This policy explains what data the Extension may handle and how it is protected.
 
-_Last updated: December 28, 2024_
+---
 
-## Introduction
+## 2.  Data We Store
 
-**ChatGPT Scrollbar** ("the Extension") is committed to protecting your privacy. This Privacy Policy explains how we collect, use, and safeguard your information when you use our Chrome extension. By using the Extension, you agree to the collection and use of information in accordance with this policy.
+| Data | Where | Purpose | Sent off-device? |
+|------|-------|---------|------------------|
+| **UI preferences** (scrollbar colour, size, auto-hide, etc.) | `chrome.storage.sync` on your Google account | Restore your look & feel on every machine | **No** |
+| **Custom autocomplete prompts** you save | `chrome.storage.sync` | Make your personal snippets available in the textarea dropdown | **No** |
+| **Prompt text** you choose to share *(optional, disabled at any time)* | Secure POST to `https://adfeed-…run.app` | Build aggregated “Trending / Latest prompts” list for all users | **Yes – only when the “Share your prompt” switch is ON** |
 
-## Information We Collect
+*No other information (chat content, page history, personal identifiers, cookies, etc.) is accessed, collected or stored.*
 
-- **User Settings**: The Extension stores your customization preferences, such as scrollbar color, size, opacity, and auto-hide functionality.
+---
 
-## How We Use Your Information
+## 3.  How We Use the Data  
+* Provide and customise the on-page scrollbar and autocomplete UI.  
+* If **Prompt Sharing** is enabled, upload the raw prompt text **only** (no headers, no user IDs) to calculate community statistics.
 
-- **Local Storage**: Your settings are stored locally on your device using Chrome's storage API.
-- **Functionality Enhancement**: These settings are used solely to provide and enhance the scrollbar's appearance and functionality within the ChatGPT interface.
-- **No External Transmission**: We do not transmit your settings or any other personal information to any external servers or third parties.
+---
 
-## Data Sharing and Disclosure
+## 4.  Data Sharing & Disclosure  
+* We **never sell** or transfer data to third parties.  
+* Shared prompts are stored without personal identifiers and used exclusively for aggregate ranking.  
 
-- **No Data Sharing**: We do not sell, trade, or otherwise transfer your personal information to outside parties.
-- **No External Data Collection**: The Extension does not collect or transmit any data to external servers.
+---
 
-## Data Security
+## 5.  Security  
+All communication with the Trending-Prompts API uses HTTPS. Data in `chrome.storage.sync` is encrypted in transit and at rest by Google. Despite best efforts, no system can guarantee absolute security.
 
-- **Local Security Measures**: We implement appropriate security measures to protect your personal information stored locally on your device.
-- **No Absolute Guarantees**: Please be aware that no security measures are perfect or impenetrable. We cannot guarantee the absolute security of your information.
+---
 
-## Your Choices
+## 6.  Your Choices  
+* **Settings panel → “Prompt Sharing” switch** – turn off at any time to stop all uploads (previously shared prompts remain anonymous and cannot be linked back to you).  
+* **Reset to Defaults** – wipes all locally stored settings and custom prompts.  
 
-- **Customization**: You can customize the scrollbar's appearance and behavior through the settings panel.
-- **Reset Settings**: You can reset the extension's settings to their default values at any time via the popup interface.
+---
 
-## Changes to This Privacy Policy
+## 7.  Updates to this Policy  
+We may revise this notice when features change. The latest version is always bundled with the Extension and posted on the project’s GitHub page. Continued use after an update constitutes acceptance.
 
-- **Policy Updates**: We may update our Privacy Policy from time to time. Any changes will be posted within the Extension or on the official Extension page.
-- **Review Encouragement**: We encourage you to review this Privacy Policy periodically for any changes.
+---
 
-## Contact Us
-
-If you have any questions about this Privacy Policy, please contact us at [kaisenaiko@gmail.com](mailto:kaisenaiko@gmail.com).
+## 8.  Contact  
+Questions or concerns? Email **kaisenaiko@gmail.com**.
