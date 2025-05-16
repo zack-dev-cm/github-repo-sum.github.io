@@ -215,7 +215,7 @@ This section provides a glimpse into projects I've developed. For quick navigati
 
 **Link**: [Navigator on Chrome Web Store](https://chromewebstore.google.com/detail/chatgpt-scrollbar/jnoonpeekddinkiecaonhocaflcgbhap?pli=1)
 
-<img src="samples/nav/navigator_chrome.png" width="200" alt="Navigator Chrome">
+<img src="samples/nav/navigator_chrome.png" width="400" alt="Navigator Chrome">
 
 ---
 
