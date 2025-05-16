@@ -38,7 +38,7 @@ This section provides a glimpse into projects I've developed. For quick navigati
 10. [Python Library: shiftlab-ocr](#10-python-library-shiftlab-ocr)
 11. [Face Antispoofing & Multi-Modal Vision-Language Models](#11-face-antispoofing--multi-modal-vision-language-models)
 12. [GitHub Repo Summarizer (Chrome Extension)](#12-github-repo-summarizer-chrome-extension)
-13. [ChatGPT|Deepseek|AIStudio Navigator (Chrome Extension)](#13-chatgptdeepseekaistudio-navigator-chrome-extension)
+13. [ChatGPT Deepseek AIStudio Navigator (Chrome Extension)](#13-chatgptdeepseekaistudio-navigator-chrome-extension)
 14. [Task Zavod – Micro-Task Marketplace](#14-task-zavod--micro-task-marketplace)
 15. [Trending Prompts Feed](#15-trending-prompts-feed)
 
@@ -49,6 +49,7 @@ This section provides a glimpse into projects I've developed. For quick navigati
 **Key Features**: Real-time instruction processing, automated testing, task automation, novel device interaction.
 **Tech Stack**: Android, Vision-Language Models (VLMs), Server-side AI.
 **Demo**: [View MP4 on Google Drive](https://drive.google.com/file/d/13UQTdBVsZwPclMOca6Nmaywk4BiRydbi/view?usp=sharing)
+
 ![Android Remote Control with VLM AI Agents](samples/android_become_human-ezgif.com-speed.gif "Android Remote Control with VLM AI Agents")
 
 ---
@@ -58,6 +59,7 @@ This section provides a glimpse into projects I've developed. For quick navigati
 **Key Features**: Non-verbal AI control, pattern recognition of breathing acoustics.
 **Tech Stack**: Audio processing, Neural Networks.
 **Demo**: [View GIF on Google Drive](https://drive.google.com/file/d/1H43aT5n8NWlOuTIWsJinssKRh1n3tiOM/view?usp=sharing)
+
 ![Breathing Control Demo](samples/mlbreath.gif "Breathing Control")
 
 ---
@@ -68,6 +70,7 @@ This section provides a glimpse into projects I've developed. For quick navigati
 **Tech Stack**: Generative AI (Text2Image, Text2Video), Inpainting, AR, Telegram API.
 **Live Demo**: [Colab-based Demo](https://adfeed-1095464065298.us-central1.run.app/)
 **Video**: [View MP4 with Sound on Google Drive](https://drive.google.com/file/d/1kvg4gjCNFPmrI3URPsM3eIyQ_vqSk1Ow/view?usp=sharing)
+
 ![Create, Chat & AR Experience with AI-Character](samples/adfeed_her.gif "Create & Chat: AI Fashion Models, Ad Campaigns, or Pokémon Buddies")
 
 ---
@@ -83,6 +86,7 @@ This section provides a glimpse into projects I've developed. For quick navigati
 [Inpaint #3](https://drive.google.com/file/d/18kD2cm0uYmzudvOqVFmtJ8ZCkEbqqIHc/view?usp=sharing)
 
 <img src="samples/interior/marble_floor_w_reflections.png" width="480" alt="Marble Floor with Reflections">
+
 <img src="samples/interior/download (81).png" width="480" alt="Download sample">
 
 | Original                                     | Another Example                                |
@@ -95,6 +99,7 @@ This section provides a glimpse into projects I've developed. For quick navigati
 **Description**: An AI system designed to enhance urban driving by predicting the optimal speed to approach upcoming traffic lights or navigate traffic jams smoothly, thus potentially reducing abrupt stops and improving fuel efficiency.
 **Key Features**: Predictive speed optimization, traffic flow analysis.
 **Tech Stack**: Predictive Modeling, Real-time Data Analysis.
+
 <img src="samples/smart_drive/smart_drive3.png" width="640" alt="Smart Drive Prediction">
 
 ---
@@ -103,6 +108,7 @@ This section provides a glimpse into projects I've developed. For quick navigati
 **Description**: An AI solution for analyzing golf swings and estimating ball trajectory, valuable for sports analytics and player performance improvement.
 **Key Features**: Trajectory estimation, sports motion analysis.
 **Tech Stack**: Computer Vision, Physics-based Modeling.
+
 ![Estimate Golf Ball Trajectory](samples/golf/1.png "Estimate Golf Ball Trajectory")
 
 ---
@@ -165,9 +171,13 @@ This section provides a glimpse into projects I've developed. For quick navigati
 **Key Features**: Improved chat navigation, prompt autocomplete, community-ranked prompts.
 **Tech Stack**: Chrome Extension, JavaScript, UI/UX enhancements.
 **Demo**: [View GIF on Google Drive](https://drive.google.com/file/d/1fhf6l85wv-uYGc_jqDdoEXHvDMYBLyH4/view?usp=sharing)
+
 ![ChatGPT Scrollbar Demo](samples/scroller.gif "ChatGPT Scrollbar")
+
 **Link**: [Navigator on Chrome Web Store](https://chromewebstore.google.com/detail/chatgpt-scrollbar/jnoonpeekddinkiecaonhocaflcgbhap?pli=1)
+
 <img src="samples/nav/navigator_chrome.png" width="200" alt="Navigator Chrome">
+
 ---
 
 ### 14. Task Zavod – Micro-Task Marketplace
@@ -175,7 +185,9 @@ This section provides a glimpse into projects I've developed. For quick navigati
 **Key Features**: VLM-powered task structuring, automated approval & payout, web & Telegram interfaces, live status polling.
 **Tech Stack**: Tornado (Web + SSE), SQLite, OpenAI VLM, Telegram Bot API.
 **Live Demo**: [Task Zavod](https://food-n-bot-dev-1095464065298.us-central1.run.app/task_zavod)
+
 <img src="samples/task_zavod/task_zavod.jpg" width="200" alt="Task Zavod example">
+
 <img src="samples/task_zavod/task_zavod2.jpg" width="200" alt="Task Zavod example 2">
 
 ---
@@ -186,6 +198,7 @@ This section provides a glimpse into projects I've developed. For quick navigati
 **Tech Stack**: Tornado, JavaScript, Community-driven content.
 **Live Demo**: [Trending Prompts](https://food-n-bot-dev-1095464065298.us-central1.run.app)
 **Significance**: This experiment validated the concept of crowdsourcing prompt engineering, leading to its integration into a widely-used browser extension.
+
 <img src="samples/trending_prompts/trending_prompts.png" width="200" alt="Prompts Feed">
 
 ---
