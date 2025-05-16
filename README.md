@@ -37,7 +37,9 @@ I’m a deep learning and computer vision enthusiast who loves building things t
 10. [Python Library: shiftlab-ocr](https://zack-dev-cm.github.io/github-repo-sum.github.io/#10-python-library-shiftlab-ocr)  
 11. [Face Antispoofing & Multi-Modal Vision-Language Models](https://zack-dev-cm.github.io/github-repo-sum.github.io/#11-face-antispoofing--multi-modal-vision-language-models)  
 12. [GitHub Repo Summarizer (Chrome Extension)](https://zack-dev-cm.github.io/github-repo-sum.github.io/#12-github-repo-summarizer-chrome-extension)  
-13. [ChatGPT Scrollbar (Chrome Extension)](https://zack-dev-cm.github.io/github-repo-sum.github.io/#13-chatgpt-scrollbar-chrome-extension)
+13. [ChatGPT|Deepseek|AIStudido Navigator (Chrome Extension)](https://zack-dev-cm.github.io/github-repo-sum.github.io/#13-chatgpt-scrollbar-chrome-extension)
+14. [**Task Zavod – Micro-Task Marketplace**](#14-task-zavod--micro-task-marketplace)  
+15. [**Trending Prompts Feed**](#15-trending-prompts-feed)  
 
 ---
 
@@ -162,16 +164,39 @@ Fetches and summarizes the code structure of GitHub repositories using your loca
 
 ---
 
-### 13. ChatGPT Scrollbar (Chrome Extension)
+### 13. ChatGPT|Deepseek|AIStudio Navigator (Chrome Extension)
 **Tired of endlessly scrolling through ChatGPT’s conversation feed?**  
-This nifty extension adds a navigable scrollbar with clickable dashes for quick jumps.
-- **Local-Only Storage**: No external data collection.
-- **Auto-Hide Feature**: Keeps your screen tidy when not in use.
+Chat Navigator adds an optional, keyboard-accessible scrollbar with “message dots” to ChatGPT, DeepSeek and Google AI Studio chat pages. The dots let users jump instantly to any earlier message. The extension also offers a lightweight prompt-autocomplete panel and a compact settings popup. Prompts could be shared and ranked, improving suggestions.
 
 **Demo Link**: [View GIF in Google Drive](https://drive.google.com/file/d/1fhf6l85wv-uYGc_jqDdoEXHvDMYBLyH4/view?usp=sharing)  
 ![ChatGPT Scrollbar Demo](samples/scroller.gif "ChatGPT Scrollbar")
 
-[**ChatGPT Scrollbar on Chrome Web Store**](https://chromewebstore.google.com/detail/chatgpt-scrollbar/jnoonpeekddinkiecaonhocaflcgbhap?pli=1)
+[**ChatGPT|Deepseek|AIStudio Navigator**](https://chromewebstore.google.com/detail/chatgpt-scrollbar/jnoonpeekddinkiecaonhocaflcgbhap?pli=1)
+
+
+### 14. Task Zavod – Micro-Task Marketplace
+Build, validate, and **pay out micro-tasks automatically**.
+https://food-n-bot-dev-1095464065298.us-central1.run.app/task_zavod
+| &nbsp; | &nbsp; |
+|--------|--------|
+| **Stack** | Tornado (Web + SSE) · SQLite · OpenAI  · VLM · Telegram Bot API |
+| **Problem** | Crowdsourcing routine QA jobs is fragile: you need clear instructions, proof, and fast payout. |
+| **Solution** | **Task Zavod** lets a business user drop free-form text → VLM converts it to a structured task; workers pick it up in a web feed *or* via Telegram bot, upload results, and an VLM auto-approves/denies. |
+| **Cool bits** | *Live* status polling, autopayment with VLM
+**Demo GIF**  
+![Task Zavod demo](samples/scroller.gif "Task Zavod – animated walk-through") <!-- replace with real GIF if you have one -->
+
+---
+
+### 15. Trending Prompts Feed
+https://food-n-bot-dev-1095464065298.us-central1.run.app/task_zavod
+A **Reddit-style board for viral prompts**—built on Tornado backend.
+
+* **Upvote / Downvote ranking** with real-time *trending* score.  
+* **Integration with autocomplete for ChatGPT|Deepseek|AIStudio Navigator** + client-side sort (Trending 🔥 / Latest ✨).  
+
+> ✨ **Why it matters:** it was the tiny experiment that convinced me “prompt engineering” can be *crowd-sourced*. The feature has since been ported into my ChatGPT|Deepseek|AIStudio Navigator extension.
+
 
 ---
 
