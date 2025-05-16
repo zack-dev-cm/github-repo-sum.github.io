@@ -189,7 +189,7 @@ https://food-n-bot-dev-1095464065298.us-central1.run.app/task_zavod
 ---
 
 ### 15. Trending Prompts Feed
-https://food-n-bot-dev-1095464065298.us-central1.run.app/task_zavod
+https://food-n-bot-dev-1095464065298.us-central1.run.app
 A **Reddit-style board for viral prompts**—built on Tornado backend.
 
 * **Upvote / Downvote ranking** with real-time *trending* score.  
