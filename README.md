@@ -221,6 +221,11 @@ This section provides a glimpse into projects I've developed. For quick navigati
 
 ### 14. Task Zavod – Micro-Task Marketplace
 **Description**: A platform for building, validating, and automatically processing payouts for micro-tasks. It addresses the complexities of crowdsourcing QA by allowing business users to define tasks in free-form text, which VLMs convert to structured tasks. Workers complete tasks via web or Telegram, with VLM-based auto-approval.
+- Support real and vlm gui workers
+- Integration with OpenAI Codex
+- Integration with GCP Cloud Run/Cloud Build 
+- Support instant debugging%shipping, full ci-cd circle
+- Support realtime app perfomance monitoring
 
 **Key Features**: VLM-powered task structuring, automated approval & payout, web & Telegram interfaces, live status polling.
 
