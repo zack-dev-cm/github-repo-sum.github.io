@@ -226,7 +226,7 @@ This section provides a glimpse into projects I've developed. For quick navigati
 
 **Tech Stack**: Tornado (Web + SSE), SQLite, OpenAI VLM, Telegram Bot API.
 
-**Live Demo**: [Task Zavod](https://food-n-bot-dev-1095464065298.us-central1.run.app/task_zavod)
+**Try App**: [Task Zavod](https://adfeed-1095464065298.us-central1.run.app/)
 
 <img src="samples/task_zavod/task_zavod.jpg" width="200" alt="Task Zavod example">
 
@@ -241,7 +241,7 @@ This section provides a glimpse into projects I've developed. For quick navigati
 
 **Tech Stack**: Tornado, JavaScript, Community-driven content.
 
-**Live Demo**: [Trending Prompts](https://food-n-bot-dev-1095464065298.us-central1.run.app)
+**Live Demo**: [Trending Prompts](https://adfeed-1095464065298.us-central1.run.app/prompts_feed)
 
 **Significance**: This experiment validated the concept of crowdsourcing prompt engineering, leading to its integration into a widely-used browser extension.
 
