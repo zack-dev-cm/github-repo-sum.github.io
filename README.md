@@ -202,7 +202,7 @@ This section provides a glimpse into projects I've developed. For quick navigati
 
 ---
 
-### 13. ChatGPT|Deepseek|AIStudio Navigator (Chrome Extension)
+### 13. ChatGPT|Codex|Deepseek|AIStudio Navigator (Chrome Extension)
 **Description**: A Chrome extension enhancing the user experience on ChatGPT, DeepSeek, and Google AI Studio. It adds a keyboard-accessible scrollbar with "message dots" for instant navigation to any message, a lightweight prompt-autocomplete panel, and prompt sharing/ranking.
 
 **Key Features**: Improved chat navigation, prompt autocomplete, community-ranked prompts.
@@ -246,6 +246,7 @@ This section provides a glimpse into projects I've developed. For quick navigati
 **Significance**: This experiment validated the concept of crowdsourcing prompt engineering, leading to its integration into a widely-used browser extension.
 
 <img src="samples/trending_prompts/trending_prompts.png" width="200" alt="Prompts Feed">
+
 
 ---
 
