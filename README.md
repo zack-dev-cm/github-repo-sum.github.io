@@ -221,6 +221,7 @@ This section provides a glimpse into projects I've developed. For quick navigati
 
 ### 14. Task Zavod – Micro-Task Marketplace
 **Description**: A platform for building, validating, and automatically processing payouts for micro-tasks. It addresses the complexities of crowdsourcing QA by allowing business users to define tasks in free-form text, which VLMs convert to structured tasks. Workers complete tasks via web or Telegram, with VLM-based auto-approval.
+- Auto debug reports and feature requests for automated developer tasks
 - Support real and vlm gui workers
 - Integration with OpenAI Codex
 - Integration with GCP Cloud Run/Cloud Build 
@@ -229,7 +230,7 @@ This section provides a glimpse into projects I've developed. For quick navigati
 
 **Key Features**: VLM-powered task structuring, automated approval & payout, web & Telegram interfaces, live status polling.
 
-**Tech Stack**: Tornado (Web + SSE), SQLite, OpenAI VLM, Telegram Bot API.
+**Tech Stack**: Tornado (Web + SSE), SQLite, OpenAI, custom VLM, Telegram Bot API.
 
 **Try App**: [Task Zavod](https://adfeed-1095464065298.us-central1.run.app/)
 
