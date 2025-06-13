@@ -38,9 +38,15 @@ This section provides a glimpse into projects I've developed. For quick navigati
 10. [Python Library: shiftlab-ocr](#10-python-library-shiftlab-ocr)
 11. [Face Antispoofing & Multi-Modal Vision-Language Models](#11-face-antispoofing--multi-modal-vision-language-models)
 12. [GitHub Repo Summarizer (Chrome Extension)](#12-github-repo-summarizer-chrome-extension)
-13. [ChatGPT Deepseek AIStudio Navigator (Chrome Extension)](#13-chatgptdeepseekaistudio-navigator-chrome-extension)
+13. [ChatGPT|Deepseek|AIStudio Navigator (Chrome Extension)](#13-chatgptdeepseekaistudio-navigator-chrome-extension)
 14. [Task Zavod – Micro-Task Marketplace](#14-task-zavod--micro-task-marketplace)
 15. [Trending Prompts Feed](#15-trending-prompts-feed)
+16. [LastAdjust – Universal Media Tuner](#16-lastadjust--universal-media-tuner)
+17. [LocaBoost AI – Local SEO Auditor](#17-locaboost-ai--local-seo-auditor)
+18. [Aetheria – Ideas-to-Media Engine (alpha)](#18-aetheria--ideas-to-media-engine-alpha)
+19. [ChronoScribe – Auto-Journal & Recall (beta)](#19-chronoscribe--auto-journal--recall-beta)
+20. [MCP-Server – Multimodal Control Plane](#20-mcp-server--multimodal-control-plane)
+21. [Tool-Calls Demo – Material Chat Playground](#21-tool-calls-demo--material-chat-playground)
 
 ---
 
@@ -89,7 +95,6 @@ This section provides a glimpse into projects I've developed. For quick navigati
 
 **Key Features**: Object segmentation, advanced inpainting with lighting/shadow reconstruction.
 
-
 **Tech Stack**: Semantic Segmentation, Generative Inpainting.
 
 **Inpainting Demos (Google Drive)**:
@@ -114,7 +119,6 @@ This section provides a glimpse into projects I've developed. For quick navigati
 **Key Features**: Predictive speed optimization, traffic flow analysis.
 
 **Tech Stack**: Predictive Modeling, Real-time Data Analysis.
-
 
 <img src="samples/smart_drive/smart_drive3.png" width="640" alt="Smart Drive Prediction">
 
@@ -224,7 +228,7 @@ This section provides a glimpse into projects I've developed. For quick navigati
 - Auto debug reports and feature requests for automated developer tasks
 - Support real and vlm gui workers
 - Integration with OpenAI Codex
-- Integration with GCP Cloud Run/Cloud Build 
+- Integration with GCP Cloud Run/Cloud Build
 - Support instant debugging%shipping, full ci-cd circle
 - Support realtime app perfomance monitoring
 
@@ -253,6 +257,71 @@ This section provides a glimpse into projects I've developed. For quick navigati
 
 <img src="samples/trending_prompts/trending_prompts.png" width="200" alt="Prompts Feed">
 
+---
+
+### 16. LastAdjust – Universal Media Tuner
+**Description**: A Swiss-army-knife for quick media tweaks — add text to PDFs, batch resize/crop images, or trim/convert videos — all running on serverless OpenCV/FFmpeg workers.
+
+**Key Features**: Fast serverless media processing, PDF text annotation, batch image manipulation, video editing tools.
+
+**Tech Stack**: Serverless, OpenCV, FFmpeg.
+
+**Live Demo**: [https://lastadjust-1095464065298.europe-north1.run.app](https://lastadjust-1095464065298.europe-north1.run.app)
+
+---
+
+### 17. LocaBoost AI – Local SEO Auditor
+**Description**: Paste any business address to get instant AI-driven insights on local search strength, competition density, and actionable optimisation tips.
+
+**Key Features**: AI-driven SEO analysis, competitive landscape visualization, actionable local search recommendations.
+
+**Tech Stack**: AI/LLMs, SEO Analytics, Geocoding APIs.
+
+**Live Demo**: [https://locaboostai-1095464065298.europe-north1.run.app](https://locaboostai-1095464065298.europe-north1.run.app)
+
+---
+
+### 18. Aetheria – Ideas-to-Media Engine (alpha)
+**Description**: Generates short movie scenes with AI CGI, writes stories from ideas, and provides music direction, critic insights, voices, narrations, and comics plots.
+
+**Key Features**: Multi-modal media generation (video, story, music, voice), creative concept development, AI-powered CGI.
+
+**Tech Stack**: Generative AI (Text-to-Video, Text-to-Speech), LLMs.
+
+**Live Demo**: [https://aetheria-1095464065298.us-east1.run.app](https://aetheria-1095464065298.us-east1.run.app)
+
+---
+
+### 19. ChronoScribe – Auto-Journal & Recall (beta)
+**Description**: Upload an image of an ancient stele or any text and get a translation into English or Russian, with an option for a scenic voice narrator reading the text in a character voice reflecting the context of the uploaded image.
+
+**Key Features**: OCR for historical texts, AI-powered translation, character-driven voice synthesis.
+
+**Tech Stack**: OCR, Translation APIs, Text-to-Speech (TTS), Computer Vision.
+
+**Live Demo**: [https://chronoscribe-1095464065298.us-east1.run.app](https://chronoscribe-1095464065298.us-east1.run.app)
+
+---
+
+### 20. MCP-Server – Multimodal Control Plane
+**Description**: The backbone for orchestrating VLM/LLM demo agents. Exposes declarative pipeline configs, autoscaling workers, and real-time event feeds. Can be integrated with other services.
+
+**Key Features**: Declarative AI pipelines, autoscaling infrastructure, real-time event monitoring, orchestration for VLM/LLM agents.
+
+**Tech Stack**: VLM/LLMs, Cloud Infrastructure, Autoscaling, DevOps.
+
+**Live Demo**: [https://mcp-server-1095464065298.us-east1.run.app](https://mcp-server-1095464065298.us-east1.run.app)
+
+---
+
+### 21. Tool-Calls Demo – Material Chat Playground
+**Description**: Showcases OpenAI’s tool-calling flow with streaming function arguments, multi-voice synthesis, and a secure serverless token proxy.
+
+**Key Features**: Streaming tool calls, multi-voice TTS, secure serverless architecture.
+
+**Tech Stack**: OpenAI API, Serverless, JavaScript, Text-to-Speech.
+
+**Live Demo**: [https://tool-calls-1095464065298.us-east1.run.app](https://tool-calls-1095464065298.us-east1.run.app)
 
 ---
 
