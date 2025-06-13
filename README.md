@@ -45,7 +45,7 @@ This section provides a glimpse into projects I've developed. For quick navigati
 17. [LocaBoost AI – Local SEO Auditor](#17-locaboost-ai--local-seo-auditor)
 18. [Aetheria – Ideas-to-Media Engine (alpha)](#18-aetheria--ideas-to-media-engine-alpha)
 19. [Insight Glitch – A Novella](#19-insight-glitch-сбой--a-novella)
-20. [ChronoScribe – Auto-Journal & Recall (beta)](#20-chronoscribe--auto-journal--recall-beta)
+20. [ChronoScribe (beta)](#20-chronoscribe-beta)
 21. [MCP-Server – Multimodal Control Plane](#21-mcp-server--multimodal-control-plane)
 22. [Tool-Calls Demo – Material Chat Playground](#22-tool-calls-demo--material-chat-playground)
 
