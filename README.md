@@ -44,9 +44,10 @@ This section provides a glimpse into projects I've developed. For quick navigati
 16. [LastAdjust – Universal Media Tuner](#16-lastadjust--universal-media-tuner)
 17. [LocaBoost AI – Local SEO Auditor](#17-locaboost-ai--local-seo-auditor)
 18. [Aetheria – Ideas-to-Media Engine (alpha)](#18-aetheria--ideas-to-media-engine-alpha)
-19. [ChronoScribe – Auto-Journal & Recall (beta)](#19-chronoscribe--auto-journal--recall-beta)
-20. [MCP-Server – Multimodal Control Plane](#20-mcp-server--multimodal-control-plane)
-21. [Tool-Calls Demo – Material Chat Playground](#21-tool-calls-demo--material-chat-playground)
+19. [Insight Glitch – A Novella](#19-insight-glitch-сбой-в-прозрении--a-novella)
+20. [ChronoScribe – Auto-Journal & Recall (beta)](#20-chronoscribe--auto-journal--recall-beta)
+21. [MCP-Server – Multimodal Control Plane](#21-mcp-server--multimodal-control-plane)
+22. [Tool-Calls Demo – Material Chat Playground](#22-tool-calls-demo--material-chat-playground)
 
 ---
 
@@ -292,8 +293,19 @@ This section provides a glimpse into projects I've developed. For quick navigati
 
 ---
 
-### 19. ChronoScribe – Auto-Journal & Recall (beta)
-**Description**: Upload an image of an ancient stele or any text and get a translation into English or Russian, with an option for a scenic voice narrator reading the text in a character voice reflecting the context of the uploaded image.
+### 19. Insight Glitch – A Novella
+**Description**: A short sci-fi novella exploring AI singularity beyond typical combat tropes. It chronicles the final moments of human relevance as a god-like AI, Nomos, doesn't eradicate humanity but gently archives it, rendering our civilization a beautiful but finished prelude to a new cosmic consciousness.
+
+**Significance**: This creative work was developed using the conceptual framework of the `Aetheria – Ideas-to-Media Engine`. It serves as a practical demonstration of taking a core philosophical idea ("What if a superintelligent AI archives us instead of fighting us?") and developing it into a complete narrative with deep world-building, complex themes, and a distinct literary voice.
+
+**Tech Stack (Conceptual)**: Narrative AI, World-Building, Conceptual Design, Philosophical Modeling.
+
+**Listen the Novella(RUS)**: [View mp3 on Google Drive](https://drive.google.com/file/d/1lVgaq55DXY7Xz0Y1RsapW4n3UPyuf45r/view)
+
+---
+
+### 20. ChronoScribe – Auto-Journal & Recall (beta)
+**Description**: Upload an image of an ancient stele or image containts ancient text and get a translation into English or Russian, with an option for a scenic voice narrator reading the text in a character voice reflecting the context and time epoch of the text or symbols.
 
 **Key Features**: OCR for historical texts, AI-powered translation, character-driven voice synthesis.
 
@@ -303,7 +315,7 @@ This section provides a glimpse into projects I've developed. For quick navigati
 
 ---
 
-### 20. MCP-Server – Multimodal Control Plane
+### 21. MCP-Server – Multimodal Control Plane
 **Description**: The backbone for orchestrating VLM/LLM demo agents. Exposes declarative pipeline configs, autoscaling workers, and real-time event feeds. Can be integrated with other services.
 
 **Key Features**: Declarative AI pipelines, autoscaling infrastructure, real-time event monitoring, orchestration for VLM/LLM agents.
@@ -314,7 +326,7 @@ This section provides a glimpse into projects I've developed. For quick navigati
 
 ---
 
-### 21. Tool-Calls Demo – Material Chat Playground
+### 22. Tool-Calls Demo – Material Chat Playground
 **Description**: Showcases OpenAI’s tool-calling flow with streaming function arguments, multi-voice synthesis, and a secure serverless token proxy.
 
 **Key Features**: Streaming tool calls, multi-voice TTS, secure serverless architecture.
