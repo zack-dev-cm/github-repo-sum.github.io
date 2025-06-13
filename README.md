@@ -38,7 +38,7 @@ This section provides a glimpse into projects I've developed. For quick navigati
 10. [Python Library: shiftlab-ocr](#10-python-library-shiftlab-ocr)
 11. [Face Antispoofing & Multi-Modal Vision-Language Models](#11-face-antispoofing--multi-modal-vision-language-models)
 12. [GitHub Repo Summarizer (Chrome Extension)](#12-github-repo-summarizer-chrome-extension)
-13. [ChatGPT|Deepseek|AIStudio Navigator (Chrome Extension)](#13-chatgptdeepseekaistudio-navigator-chrome-extension)
+13. [ChatGPT-Codex-Deepseek-AIStudio Navigator (Chrome Extension)](#13-chatgptdeepseekaistudio-navigator-chrome-extension)
 14. [Task Zavod – Micro-Task Marketplace](#14-task-zavod--micro-task-marketplace)
 15. [Trending Prompts Feed](#15-trending-prompts-feed)
 16. [LastAdjust – Universal Media Tuner](#16-lastadjust--universal-media-tuner)
