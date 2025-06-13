@@ -304,7 +304,7 @@ This section provides a glimpse into projects I've developed. For quick navigati
 
 ---
 
-### 20. ChronoScribe – Auto-Journal & Recall (beta)
+### 20. ChronoScribe (beta)
 **Description**: Upload an image of an ancient stele or image containts ancient text and get a translation into English or Russian, with an option for a scenic voice narrator reading the text in a character voice reflecting the context and time epoch of the text or symbols.
 
 **Key Features**: OCR for historical texts, AI-powered translation, character-driven voice synthesis.
