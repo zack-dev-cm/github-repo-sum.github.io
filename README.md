@@ -228,11 +228,20 @@ This section provides a glimpse into projects I've developed. For quick navigati
 ### 14. Task Zavod – Micro-Task Marketplace
 **Description**: A platform for building, validating, and automatically processing payouts for micro-tasks. It addresses the complexities of crowdsourcing QA by allowing business users to define tasks in free-form text, which VLMs convert to structured tasks. Workers complete tasks via web or Telegram, with VLM-based auto-approval.
 - Auto debug reports and feature requests for automated developer tasks
-- Support real and vlm gui workers
+- Support real task performers  
+- Reward and easy payment system
+- Support vlm gui workers
 - Integration with OpenAI Codex
 - Integration with GCP Cloud Run/Cloud Build
 - Support instant debugging%shipping, full ci-cd circle
 - Support realtime app perfomance monitoring
+
+**Problem**: For businesses:  Speed up software iteration for pre and post production, reduce resources need
+             For task performers: Get decent and fast payments, Be respectful for job see how your work inpact the other people through the task you've done. 
+             
+             (Example : tasks is test button in the tg bot, task performers found the bug, and this bug is fixed on next release. Feedback and reward is provided to task performers)
+
+
 
 **Key Features**: VLM-powered task structuring, automated approval & payout, web & Telegram interfaces, live status polling.
 
@@ -247,7 +256,10 @@ This section provides a glimpse into projects I've developed. For quick navigati
 ---
 
 ### 15. Trending Prompts Feed
-**Description**: A Reddit-style board for discovering and sharing viral AI prompts, built with a Tornado backend. It features real-time trending scores based on upvotes/downvotes and integrates with the "ChatGPT|Deepseek|AIStudio Navigator" extension for prompt suggestions.
+**Description**: A Reddit-style board for discovering and sharing usefull AI prompts, built with a Tornado backend. It features real-time trending scores based on upvotes/downvotes and integrates with the "ChatGPT|Deepseek|AIStudio Navigator" extension for prompt suggestions.
+
+**Problem**: In this era we facing the need to learn how to communicate with AI effectively, enhancing our productivity but with care of our mental health.
+ Cultivating refined prompts to reduce ai chat models biases, pleasing, tunelling effects, pretending to meet our expectations etc.
 
 **Key Features**: Crowdsourced prompt engineering, real-time trending, integration with browser extension.
 
@@ -337,7 +349,8 @@ This section provides a glimpse into projects I've developed. For quick navigati
 **Live Demo**: [https://tool-calls-1095464065298.us-east1.run.app](https://tool-calls-1095464065298.us-east1.run.app)
 
 
-### 23. Robot Teleoperate: In the era of humonoid robots, there is need to help robots with daily challenges. Service for simple interface to quickly connect and managed the stucked robot.
+### 23. Robot Teleoperate 
+In the era of humonoid robots, there is need to help robots with daily challenges. Service for simple interface to quickly connect and managed the stucked robot.
 
 ---
 
