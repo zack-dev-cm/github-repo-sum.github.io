@@ -1,6 +1,6 @@
 # About Me
 
-I'm a Deep Learning and Computer Vision enthusiast passionate about building impactful solutions that simplify tasks and spark curiosity. You'll often find me engrossed in training neural networks or architecting AI agents capable of autonomously navigating Android UIs. Below is an overview of my journey, expertise, and some of the innovative projects I've brought to life.
+I'm a Deep Learning and Computer Vision enthusiast passionate about building solutions spark curiosity and do some small usefull thing. You'll often find me engrossed in training neural networks or architecting AI agents capable of autonomously navigating Android UIs. Below is an overview of my journey, expertise, and some projects I've brought to life.
 
 ---
 
@@ -218,6 +218,7 @@ This section provides a glimpse into projects I've developed. For quick navigati
 
 ![ChatGPT Scrollbar Demo](samples/scroller.gif "ChatGPT Scrollbar")
 
+**Link**: [Navigator Webpage](https://aichatnavigator.online)
 **Link**: [Navigator on Chrome Web Store](https://chromewebstore.google.com/detail/chatgpt-scrollbar/jnoonpeekddinkiecaonhocaflcgbhap?pli=1)
 
 <img src="samples/nav/navigator_chrome.png" width="400" alt="Navigator Chrome">
@@ -237,7 +238,7 @@ This section provides a glimpse into projects I've developed. For quick navigati
 
 **Tech Stack**: Tornado (Web + SSE), SQLite, OpenAI, custom VLM, Telegram Bot API.
 
-**Try App**: [Task Zavod](https://adfeed-1095464065298.us-central1.run.app/)
+**Try App**: [Task Zavod](https://mcp-taskforge-1095464065298.us-central1.run.app/task_zavod)
 
 <img src="samples/task_zavod/task_zavod.jpg" width="200" alt="Task Zavod example">
 
@@ -252,7 +253,7 @@ This section provides a glimpse into projects I've developed. For quick navigati
 
 **Tech Stack**: Tornado, JavaScript, Community-driven content.
 
-**Live Demo**: [Trending Prompts](https://adfeed-1095464065298.us-central1.run.app/prompts_feed)
+**Live Demo**: [Trending Prompts](https://mcp-taskforge-1095464065298.us-central1.run.app/prompts_feed)
 
 **Significance**: This experiment validated the concept of crowdsourcing prompt engineering, leading to its integration into a widely-used browser extension.
 
@@ -334,6 +335,9 @@ This section provides a glimpse into projects I've developed. For quick navigati
 **Tech Stack**: OpenAI API, Serverless, JavaScript, Text-to-Speech.
 
 **Live Demo**: [https://tool-calls-1095464065298.us-east1.run.app](https://tool-calls-1095464065298.us-east1.run.app)
+
+
+### 23. Robot Teleoperate: In the era of humonoid robots, there is need to help robots with daily challenges. Service for simple interface to quickly connect and managed the stucked robot.
 
 ---
 
