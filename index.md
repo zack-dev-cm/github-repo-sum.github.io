@@ -1,3 +1,8 @@
+---
+layout: default
+title: About Me
+---
+
 # About Me
 
 I'm a Deep Learning and Computer Vision enthusiast passionate about building solutions spark curiosity and do some small usefull thing. You'll often find me engrossed in training neural networks or architecting AI agents capable of autonomously navigating Android UIs. Below is an overview of my journey, expertise, and some projects I've brought to life.
@@ -26,28 +31,28 @@ I'm a Deep Learning and Computer Vision enthusiast passionate about building sol
 
 This section provides a glimpse into projects I've developed. For quick navigation:
 
-1.  [Android Remote Control with VLM AI Agents](#1-android-remote-control-with-vlm-ai-agents)
-2.  [Control VLM-LLM Agent Silently With Your Breath](#2-control-vlm-llm-agent-silently-with-your-breath)
-3.  [Create, Chat & AR Experience with AI-Character (Text2Room)](#3-create-chat--ar-experience-with-ai-character-text2room)
-4.  [Label and Inpaint Anything in a Room Interior](#4-label-and-inpaint-anything-in-a-room-interior)
-5.  [Smart Drive for Smart City: Predict Optimal Speed](#5-smart-drive-for-smart-city-predict-optimal-speed)
-6.  [Estimate Golf Ball Trajectory](#6-estimate-golf-ball-trajectory)
-7.  [Pixel-Wise Segmentation of Spare Parts for 3D Printing](#7-pixel-wise-segmentation-of-spare-parts-for-3d-printing)
-8.  [Food Recognition App](#8-food-recognition-app)
-9.  [Python Library: AutoToloka](#9-python-library-autotoloka)
-10. [Python Library: shiftlab-ocr](#10-python-library-shiftlab-ocr)
-11. [Face Antispoofing & Multi-Modal Vision-Language Models](#11-face-antispoofing--multi-modal-vision-language-models)
-12. [GitHub Repo Summarizer (Chrome Extension)](#12-github-repo-summarizer-chrome-extension)
-13. [ChatGPT-Codex-Deepseek-AIStudio Navigator (Chrome Extension)](#13-chatgptdeepseekaistudio-navigator-chrome-extension)
-14. [Task Zavod – Micro-Task Marketplace](#14-task-zavod--micro-task-marketplace)
-15. [Trending Prompts Feed](#15-trending-prompts-feed)
-16. [LastAdjust – Universal Media Tuner](#16-lastadjust--universal-media-tuner)
-17. [LocaBoost AI – Local SEO Auditor](#17-locaboost-ai--local-seo-auditor)
-18. [Aetheria – Ideas-to-Media Engine (alpha)](#18-aetheria--ideas-to-media-engine-alpha)
-19. [Insight Glitch – A Novella](#19-insight-glitch-сбой--a-novella)
-20. [ChronoScribe (beta)](#20-chronoscribe-beta)
-21. [MCP-Server – Multimodal Control Plane](#21-mcp-server--multimodal-control-plane)
-22. [Tool-Calls Demo – Material Chat Playground](#22-tool-calls-demo--material-chat-playground)
+1.  [Android Remote Control with VLM AI Agents](projects/android-remote-control-with-vlm-ai-agents.html)
+2.  [Control VLM-LLM Agent Silently With Your Breath](projects/control-vlm-llm-agent-silently-with-your-breath.html)
+3.  [Create, Chat & AR Experience with AI-Character (Text2Room)](projects/create-chat-ar-experience-with-ai-character-text2room.html)
+4.  [Label and Inpaint Anything in a Room Interior](projects/label-and-inpaint-anything-in-a-room-interior.html)
+5.  [Smart Drive for Smart City: Predict Optimal Speed](projects/smart-drive-for-smart-city-predict-optimal-speed.html)
+6.  [Estimate Golf Ball Trajectory](projects/estimate-golf-ball-trajectory.html)
+7.  [Pixel-Wise Segmentation of Spare Parts for 3D Printing](projects/pixel-wise-segmentation-of-spare-parts-for-3d-printing.html)
+8.  [Food Recognition App](projects/food-recognition-app.html)
+9.  [Python Library: AutoToloka](projects/python-library-autotoloka.html)
+10. [Python Library: shiftlab-ocr](projects/python-library-shiftlab-ocr.html)
+11. [Face Antispoofing & Multi-Modal Vision-Language Models](projects/face-antispoofing-multi-modal-vision-language-models.html)
+12. [GitHub Repo Summarizer (Chrome Extension)](projects/github-repo-summarizer-chrome-extension.html)
+13. [ChatGPT-Codex-Deepseek-AIStudio Navigator (Chrome Extension)](projects/chatgpt-codex-deepseek-aistudio-navigator-chrome-extension.html)
+14. [Task Zavod – Micro-Task Marketplace](projects/task-zavod-micro-task-marketplace.html)
+15. [Trending Prompts Feed](projects/trending-prompts-feed.html)
+16. [LastAdjust – Universal Media Tuner](projects/lastadjust-universal-media-tuner.html)
+17. [LocaBoost AI – Local SEO Auditor](projects/locaboost-ai-local-seo-auditor.html)
+18. [Aetheria – Ideas-to-Media Engine (alpha)](projects/aetheria-ideas-to-media-engine-alpha.html)
+19. [Insight Glitch – A Novella](projects/insight-glitch-a-novella.html)
+20. [ChronoScribe (beta)](projects/chronoscribe-beta.html)
+21. [MCP-Server – Multimodal Control Plane](projects/mcp-server-multimodal-control-plane.html)
+22. [Tool-Calls Demo – Material Chat Playground](projects/tool-calls-demo-material-chat-playground.html)
 
 ---
 
