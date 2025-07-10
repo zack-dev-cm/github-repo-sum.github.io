@@ -1,0 +1,11 @@
+<a href="#top" class="back-to-top" id="backToTop">Back to top</a>
+<script>
+  const btn = document.getElementById('backToTop');
+  window.addEventListener('scroll', () => {
+    if (window.scrollY > 300) {
+      btn.classList.add('active');
+    } else {
+      btn.classList.remove('active');
+    }
+  });
+</script>

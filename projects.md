@@ -5,8 +5,6 @@ title: Projects
 
 # Projects
 
-{% for project in site.pages %}
-{% if project.path contains 'projects/' and project.name != 'index.md' %}
+{% for project in site.data.projects %}
 - [{{ project.title }}]({{ project.url | relative_url }})
-{% endif %}
 {% endfor %}
