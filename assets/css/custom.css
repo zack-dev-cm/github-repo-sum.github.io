@@ -1,0 +1,13 @@
+.site-nav {
+  margin-top: 1rem;
+}
+
+.site-nav a {
+  margin-right: 1rem;
+  color: #ffffff;
+  text-decoration: none;
+}
+
+.site-nav a:last-child {
+  margin-right: 0;
+}
