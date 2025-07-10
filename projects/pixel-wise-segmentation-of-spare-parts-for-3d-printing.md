@@ -16,5 +16,5 @@ title: 'Pixel-Wise Segmentation of Spare Parts for 3D Printing'
 
 | Example 1                                    | Example 2                                    |
 |----------------------------------------------|----------------------------------------------|
-| <img src="samples/key_segm/download (61).png" width="200" alt="Key Segmentation 1"> | <img src="samples/key_segm/download (62).png" width="200" alt="Key Segmentation 2"> |
+| <img src="../samples/key_segm/download (61).png" width="200" alt="Key Segmentation 1"> | <img src="../samples/key_segm/download (62).png" width="200" alt="Key Segmentation 2"> |
 

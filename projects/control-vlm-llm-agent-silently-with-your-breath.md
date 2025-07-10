@@ -11,5 +11,5 @@ title: 'Control VLM-LLM Agent Silently With Your Breath'
 
 **Demo**: [View GIF on Google Drive](https://drive.google.com/file/d/1H43aT5n8NWlOuTIWsJinssKRh1n3tiOM/view?usp=sharing)
 
-![Breathing Control Demo](samples/mlbreath.gif "Breathing Control")
+![Breathing Control Demo](../samples/mlbreath.gif "Breathing Control")
 

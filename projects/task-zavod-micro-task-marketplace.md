@@ -26,7 +26,7 @@ title: 'Task Zavod – Micro-Task Marketplace'
 
 **Try App**: [Task Zavod](https://mcp-taskforge-1095464065298.us-central1.run.app/task_zavod)
 
-<img src="samples/task_zavod/task_zavod.jpg" width="200" alt="Task Zavod example">
+<img src="../samples/task_zavod/task_zavod.jpg" width="200" alt="Task Zavod example">
 
-<img src="samples/task_zavod/task_zavod2.jpg" width="200" alt="Task Zavod example 2">
+<img src="../samples/task_zavod/task_zavod2.jpg" width="200" alt="Task Zavod example 2">
 

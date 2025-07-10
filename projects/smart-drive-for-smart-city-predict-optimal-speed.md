@@ -9,5 +9,5 @@ title: 'Smart Drive for Smart City: Predict Optimal Speed'
 
 **Tech Stack**: Predictive Modeling, Real-time Data Analysis.
 
-<img src="samples/smart_drive/smart_drive3.png" width="640" alt="Smart Drive Prediction">
+<img src="../samples/smart_drive/smart_drive3.png" width="640" alt="Smart Drive Prediction">
 

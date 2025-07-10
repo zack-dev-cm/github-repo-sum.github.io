@@ -11,10 +11,10 @@ title: 'ChatGPT|Codex|Deepseek|AIStudio Navigator (Chrome Extension)'
 
 **Demo**: [View GIF on Google Drive](https://drive.google.com/file/d/1fhf6l85wv-uYGc_jqDdoEXHvDMYBLyH4/view?usp=sharing)
 
-![ChatGPT Scrollbar Demo](samples/scroller.gif "ChatGPT Scrollbar")
+![ChatGPT Scrollbar Demo](../samples/scroller.gif "ChatGPT Scrollbar")
 
 **Link**: [Navigator Webpage](https://aichatnavigator.online)
 **Link**: [Navigator on Chrome Web Store](https://chromewebstore.google.com/detail/chatgpt-scrollbar/jnoonpeekddinkiecaonhocaflcgbhap?pli=1)
 
-<img src="samples/nav/navigator_chrome.png" width="400" alt="Navigator Chrome">
+<img src="../samples/nav/navigator_chrome.png" width="400" alt="Navigator Chrome">
 
