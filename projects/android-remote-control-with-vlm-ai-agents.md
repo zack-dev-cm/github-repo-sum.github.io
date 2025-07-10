@@ -11,5 +11,5 @@ title: 'Android Remote Control with VLM AI Agents'
 
 **Demo**: [View MP4 on Google Drive](https://drive.google.com/file/d/13UQTdBVsZwPclMOca6Nmaywk4BiRydbi/view?usp=sharing)
 
-![Android Remote Control with VLM AI Agents](samples/android_become_human-ezgif.com-speed.gif "Android Remote Control with VLM AI Agents")
+![Android Remote Control with VLM AI Agents](../samples/android_become_human-ezgif.com-speed.gif "Android Remote Control with VLM AI Agents")
 

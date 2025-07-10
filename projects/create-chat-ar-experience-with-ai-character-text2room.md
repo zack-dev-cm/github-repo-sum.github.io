@@ -12,5 +12,5 @@ title: 'Create, Chat & AR Experience with AI-Character (Text2Room)'
 **Live Demo**: [Colab-based Demo](https://adfeed-1095464065298.us-central1.run.app/)
 **Video**: [View MP4 with Sound on Google Drive](https://drive.google.com/file/d/1kvg4gjCNFPmrI3URPsM3eIyQ_vqSk1Ow/view?usp=sharing)
 
-![Create, Chat & AR Experience with AI-Character](samples/adfeed_her.gif "Create & Chat: AI Fashion Models, Ad Campaigns, or Pokémon Buddies")
+![Create, Chat & AR Experience with AI-Character](../samples/adfeed_her.gif "Create & Chat: AI Fashion Models, Ad Campaigns, or Pokémon Buddies")
 

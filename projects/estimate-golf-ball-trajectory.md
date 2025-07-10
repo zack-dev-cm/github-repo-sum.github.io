@@ -9,5 +9,5 @@ title: 'Estimate Golf Ball Trajectory'
 
 **Tech Stack**: Computer Vision, Physics-based Modeling.
 
-![Estimate Golf Ball Trajectory](samples/golf/1.png "Estimate Golf Ball Trajectory")
+![Estimate Golf Ball Trajectory](../samples/golf/1.png "Estimate Golf Ball Trajectory")
 

@@ -16,5 +16,5 @@ title: 'Trending Prompts Feed'
 
 **Significance**: This experiment validated the concept of crowdsourcing prompt engineering, leading to its integration into a widely-used browser extension.
 
-<img src="samples/trending_prompts/trending_prompts.png" width="200" alt="Prompts Feed">
+<img src="../samples/trending_prompts/trending_prompts.png" width="200" alt="Prompts Feed">
 

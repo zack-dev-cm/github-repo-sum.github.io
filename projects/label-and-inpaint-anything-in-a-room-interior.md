@@ -15,11 +15,11 @@ title: 'Label and Inpaint Anything in a Room Interior'
 [Inpaint #2](https://drive.google.com/file/d/1xRmS8AXMJcmk-S0mth8yUQpltyfPkOSI/view?usp=sharing) |
 [Inpaint #3](https://drive.google.com/file/d/18kD2cm0uYmzudvOqVFmtJ8ZCkEbqqIHc/view?usp=sharing)
 
-<img src="samples/interior/marble_floor_w_reflections.png" width="480" alt="Marble Floor with Reflections">
+<img src="../samples/interior/marble_floor_w_reflections.png" width="480" alt="Marble Floor with Reflections">
 
-<img src="samples/interior/download (81).png" width="480" alt="Download sample">
+<img src="../samples/interior/download (81).png" width="480" alt="Download sample">
 
 | Original                                     | Another Example                                |
 |----------------------------------------------|------------------------------------------------|
-| <img src="samples/interior/1.png" width="200" alt="Interior Example 1"> | <img src="samples/interior/2sample.png" width="200" alt="Interior Example 2"> |
+| <img src="../samples/interior/1.png" width="200" alt="Interior Example 1"> | <img src="../samples/interior/2sample.png" width="200" alt="Interior Example 2"> |
 
