@@ -1,3 +1,6 @@
 title: .
 description: <_>
 theme: jekyll-theme-cayman
+
+plugins:
+  - jekyll-sitemap
