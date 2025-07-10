@@ -12,3 +12,26 @@
 .site-nav a:last-child {
   margin-right: 0;
 }
+.site-nav a[aria-current='page'] {
+  text-decoration: underline;
+}
+
+img {
+  max-width: 100%;
+  height: auto;
+}
+
+.back-to-top {
+  position: fixed;
+  bottom: 1rem;
+  right: 1rem;
+  display: none;
+  padding: 0.5rem 0.75rem;
+  background: #157878;
+  color: #fff;
+  border-radius: 4px;
+}
+
+.back-to-top.active {
+  display: block;
+}

@@ -4,3 +4,13 @@ theme: jekyll-theme-cayman
 
 plugins:
   - jekyll-sitemap
+
+url: "https://zack-dev-cm.github.io"
+baseurl: "/github-repo-sum.github.io"
+
+author:
+  name: "Zakhar Pashkin"
+  same_as:
+    - "https://github.com/zack-dev-cm"
+    - "https://github.com/ZackPashkin"
+
