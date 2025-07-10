@@ -1,15 +1,16 @@
+Looking for:
 
-If you’re looking for:
-- **Custom AI solutions** (computer vision, NLP, or multi-modal)  
-- **Mobile & embedded model optimization**  
-- **Vision OS prototypes**  
-- **ML Ops** for GCP/AWS or on-prem solutions  
+- **Next-gen LLM / VLM solutions (MCP-friendly)**
+- **Custom AI systems** — computer vision, NLP, or multi-modal
+- **Mobile & embedded deep learning model optimization**
+- **AI-as-a-Service (SaaS) platforms**
+- **End-to-end support:** development, post-production, maintenance
+- **ML Ops** on GCP, AWS, or on-prem
 
-Then let’s talk! I love collaborating on anything that pushes boundaries or solves real-world headaches.
+Let’s talk! I love collaborating on projects that push boundaries and solve real-world problems.
 
-**Email**: [kaisenaiko@gmail.com](mailto:kaisenaiko@gmail.com) 
-**GitHub**: [github.com/zack-dev-cm](https://github.com/zack-dev-cm)
-Additional:   
-**GitHub**: [github.com/ZackPashkin](https://github.com/ZackPashkin)  
+**Email:** kaisenaiko@gmail.com  
+**GitHub:** [github.com/zack-dev-cm](https://github.com/zack-dev-cm)  
+**Additional GitHub:** [github.com/ZackPashkin](https://github.com/ZackPashkin)
 
-Thanks for stopping by. Let’s see where AI can take us next!
+Thanks for stopping by—let’s see where AI takes us next!
