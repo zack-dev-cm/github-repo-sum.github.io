@@ -7,11 +7,7 @@ title: About Me
 
 I'm a Deep Learning and Computer Vision enthusiast passionate about building solutions spark curiosity and do some small usefull thing. You'll often find me engrossed in training neural networks or architecting AI agents capable of autonomously navigating Android UIs. Below is an overview of my journey, expertise, and some projects I've brought to life.
 
-## Latest
 
-- [YouTube Trendwatch](https://github.com/zack-dev-cm/trendwatch/blob/main/trendwatch_yt.ipynb) – [Run in Colab](https://colab.research.google.com/github/zack-dev-cm/trendwatch/blob/main/trendwatch_yt.ipynb)
-
----
 
 ## Key Highlights
 
@@ -31,13 +27,18 @@ I'm a Deep Learning and Computer Vision enthusiast passionate about building sol
 
 ---
 
-## Selected Projects & Innovations
+## Selected Projects
 
 This section provides a glimpse into projects I've developed. For quick navigation:
 
 {% for project in site.data.projects %}
 {{ forloop.index }}. [{{ project.title }}]({{ project.url | relative_url }})
 {% endfor %}
+
+---
+### Latest
+
+- [YouTube Trendwatch ](https://github.com/zack-dev-cm/trendwatch/blob/main/trendwatch_yt.ipynb) – [Run in Colab](https://colab.research.google.com/github/zack-dev-cm/trendwatch/blob/main/trendwatch_yt.ipynb)
 
 ---
 
@@ -350,9 +351,8 @@ In the era of humonoid robots, there is need to help robots with daily challenge
 -   **Primary GitHub Profile**: [github.com/zack-dev-cm](https://github.com/zack-dev-cm)
 -   **Secondary GitHub Profile**: [github.com/ZackPashkin](https://github.com/ZackPashkin)
 -   **LinkedIn Profile**: [linkedin.com/in/zakhar-pashkin-a524a6163/](https://www.linkedin.com/in/zakhar-pashkin-a524a6163/)
-## GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=zack-dev-cm&show_icons=true)
+
 
 
 ---
