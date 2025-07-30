@@ -35,3 +35,15 @@ img {
 .back-to-top.active {
   display: block;
 }
+
+.ascii-banner {
+  color: #39ff14;
+  text-shadow: 0 0 5px #39ff14;
+  font-family: monospace;
+}
+
+@media (max-width: 480px) {
+  .ascii-banner {
+    display: none;
+  }
+}

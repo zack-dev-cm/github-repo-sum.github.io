@@ -3,6 +3,13 @@ layout: default
 title: About Me
 ---
 
+<pre class="ascii-banner">
+ ____  _   ___ _  __  ___  _____   __
+|_  / /_\ / __| |/ / |   \| __\ \ / /
+ / / / _ \ (__| ' <  | |) | _| \ V /
+/___/_/ \_\___|_|\_\ |___/|___| \_/
+</pre>
+
 # About Me
 
 I'm a Deep Learning and Computer Vision enthusiast passionate about building solutions spark curiosity and do some small usefull thing. You'll often find me engrossed in training neural networks or architecting AI agents capable of autonomously navigating Android UIs. Below is an overview of my journey, expertise, and some projects I've brought to life.
