@@ -87,5 +87,12 @@
       </footer>
     </main>
     {% include back-to-top.html %}
+    <script>
+      document.addEventListener('DOMContentLoaded', function () {
+        document.querySelectorAll('img:not([loading])').forEach(function (img) {
+          img.loading = 'lazy';
+        });
+      });
+    </script>
   </body>
 </html>
