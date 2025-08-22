@@ -40,6 +40,8 @@ This section provides a glimpse into projects I've developed. For quick navigati
 ---
 ### Latest
 
+- [Make promo and reflinks webapp](https://analytics-mcp-1095464065298.us-east1.run.app) – Generate personalized promo and referral links with built-in analytics tracking
+
 - [YouTube Trendwatch ](https://github.com/zack-dev-cm/trendwatch/blob/main/trendwatch_yt.ipynb) – [Run in Colab](https://colab.research.google.com/github/zack-dev-cm/trendwatch/blob/main/trendwatch_yt.ipynb)
 
 ---
