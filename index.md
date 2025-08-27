@@ -38,6 +38,8 @@ I'm a Deep Learning and Computer Vision enthusiast passionate about building sol
 - [Make promo and reflinks - webapp](https://analytics-mcp-1095464065298.us-east1.run.app) – Generate personalized promo and referral links with built-in analytics tracking
 
 - [Dishes Recognition & Nutrition Goals Telegram Bot](https://t.me/calorio_yf_bot)
+
+
 **Description**:
 Telegram bot that recognizes dishes via user-submitted photos/audio or descriptions and helps users set and track their nutrition targets through conversational interaction. 1,000+ users
 
