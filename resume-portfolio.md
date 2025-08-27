@@ -2,7 +2,7 @@ Looking for:
 
 - **Next-gen LLM / VLM agentic solutions (MCP-friendly)**
 - **Custom AI systems** — computer vision, NLP, or multi-modal
-- **Mobile & embedded deep learning model optimization**
+- **Mobile & embedded deep learning model ml algo optimization**
 - **AI-as-a-Service (AIaaS) platforms**
 - **End-to-end support:** development, post-production, maintenance
 - **ML Ops** on GCP, AWS, or on-prem
