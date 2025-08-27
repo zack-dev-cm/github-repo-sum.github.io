@@ -1,6 +1,6 @@
 Looking for:
 
-- **Next-gen LLM / VLM solutions (MCP-friendly)**
+- **Next-gen LLM / VLM agentic solutions (MCP-friendly)**
 - **Custom AI systems** — computer vision, NLP, or multi-modal
 - **Mobile & embedded deep learning model optimization**
 - **AI-as-a-Service (SaaS) platforms**
