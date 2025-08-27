@@ -12,7 +12,7 @@ Chat Navigator (“**the Extension**”) adds a custom scrollbar, prompt-autocom
 |------|-------|---------|------------------|
 | **UI preferences** (scrollbar colour, size, auto-hide, etc.) | `chrome.storage.sync` on your Google account | Restore your look & feel on every machine | **No** |
 | **Custom autocomplete prompts** you save | `chrome.storage.sync` | Make your personal snippets available in the textarea dropdown | **No** |
-| **Prompt text** you choose to share *(optional, disabled at any time)* | Secure POST to `https://adfeed-…run.app` | Build aggregated “Trending / Latest prompts” list for all users | **Yes – only when the “Share your prompt” switch is ON** |
+| **Prompt text** you choose to share *(optional, disabled at default, no personal identifiers shared)* | Secure POST to `https://mcp-taskforge-1095464065298.us-central1.run.app/api` | Build aggregated “Trending / Latest prompts” list for all users | **Yes – only when the “Share your prompt” switch is ON** |
 
 *No other information (chat content, page history, personal identifiers, cookies, etc.) is accessed, collected or stored.*
 
@@ -47,4 +47,4 @@ We may revise this notice when features change. The latest version is always bun
 ---
 
 ## 8.  Contact  
-Questions or concerns? Email **kaisenaiko@gmail.com**.
+Questions or concerns? Email **aichatnavigator@gmail.com**.

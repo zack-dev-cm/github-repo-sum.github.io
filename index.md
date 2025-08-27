@@ -13,7 +13,7 @@ I'm a Deep Learning and Computer Vision enthusiast passionate about building sol
 
 ## Key Highlights
 
--   **Senior Deep Learning Engineer** with 5+ years of dedicated experience, specializing in areas from image classification and segmentation to Optical Character Recognition (OCR) and advanced multi-modal Transformer reasoning models.
+-   **Senior Deep Learning Engineer** with 7+ years of dedicated experience, specializing in areas from image classification and segmentation to Optical Character Recognition (OCR) and advanced multi-modal Transformer reasoning models.
 -   **Upwork Top Rated Plus Contractor**, consistently ranked in the **top 1% of AI developers**
 -   **Proven Mentor & Educator**, having led corporate training programs, instructed undergraduates in Computer Vision fundamentals, and discovered a passion for knowledge sharing.
 -   **Hackathon Finalist** in prestigious competitions like Digital Transformation and PicsArt AI, showcasing innovative problem-solving under pressure.
@@ -39,10 +39,20 @@ This section provides a glimpse into projects I've developed. For quick navigati
 
 ---
 ### Latest
+- [P2P chat for local LLMs via bluetooth protocol. Android] - [Github](https://github.com/zack-dev-cm/meshmcp)
 
 - [Make promo and reflinks webapp](https://analytics-mcp-1095464065298.us-east1.run.app) – Generate personalized promo and referral links with built-in analytics tracking
 
 - [YouTube Trendwatch ](https://github.com/zack-dev-cm/trendwatch/blob/main/trendwatch_yt.ipynb) – [Run in Colab](https://colab.research.google.com/github/zack-dev-cm/trendwatch/blob/main/trendwatch_yt.ipynb)
+
+- [Make promo and reflinks - webapp](https://analytics-mcp-1095464065298.us-east1.run.app) – Generate personalized promo and referral links with built-in analytics tracking
+
+- [Dishes Recognition & Nutrition Goals Telegram Bot](https://t.me/calorio_yf_bot)
+**Description**:
+Telegram bot that recognizes dishes via user-submitted photos/audio or descriptions and helps users set and track their nutrition targets through conversational interaction. 1,000+ users
+
+
+
 
 ---
 
