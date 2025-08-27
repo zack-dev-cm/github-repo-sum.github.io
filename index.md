@@ -16,8 +16,7 @@ I'm a Deep Learning and Computer Vision enthusiast passionate about building sol
 -   **Senior Deep Learning Engineer** with 7+ years of dedicated experience, specializing in areas from image classification and segmentation to Optical Character Recognition (OCR) and advanced multi-modal Transformer reasoning models.
 -   **Upwork Top Rated Plus Contractor**, consistently ranked in the **top 1% of AI developers**
 -   **Proven Mentor & Educator**, having led corporate training programs, instructed undergraduates in Computer Vision fundamentals, and discovered a passion for knowledge sharing.
--   **Hackathon Finalist** in prestigious competitions like Digital Transformation and PicsArt AI, showcasing innovative problem-solving under pressure.
-
+-   **Hackathon Finalist** DigitalTransformation, PicsArt AI
 ---
 
 ## My Tech Stack
@@ -361,13 +360,10 @@ In the era of humonoid robots, there is need to help robots with daily challenge
 ### 24. YOFO - You Found Only Once - Service for solo devs who magage post production pet apps to automate pet startup development
 ---
 
-## Further Exploration
+## More projects
 
 -   **Primary GitHub Profile**: [github.com/zack-dev-cm](https://github.com/zack-dev-cm)
 -   **Secondary GitHub Profile**: [github.com/ZackPashkin](https://github.com/ZackPashkin)
--   **LinkedIn Profile**: [linkedin.com/in/zakhar-pashkin-a524a6163/](https://www.linkedin.com/in/zakhar-pashkin-a524a6163/)
-
-
 
 
 ---
@@ -383,6 +379,7 @@ I'm always excited to discuss new challenges and opportunities. If you're lookin
 
 ...I'd love to hear from you.
 
-**Email**: [kaisenaiko@gmail.com](mailto:kaisenaiko@gmail.com)
+-   **LinkedIn Profile**: [linkedin.com/in/zakhar-pashkin-a524a6163/](https://www.linkedin.com/in/zakhar-pashkin-a524a6163/)
+-   **Email**: [kaisenaiko@gmail.com](mailto:kaisenaiko@gmail.com)
 
-Thank you for visiting. Let's explore how AI can shape the future, together!
+Thank you for visiting!
