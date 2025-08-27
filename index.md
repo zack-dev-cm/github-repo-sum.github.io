@@ -28,16 +28,6 @@ I'm a Deep Learning and Computer Vision enthusiast passionate about building sol
 -   **Mobile & Embedded Optimization**: TensorRT, TensorFlow Lite (TFLite), CoreML, ONNX for efficient on-device deployment.
 
 ---
-
-## Selected Projects
-
-This section provides a glimpse into projects I've developed. For quick navigation:
-
-{% for project in site.data.projects %}
-{{ forloop.index }}. [{{ project.title }}]({{ project.url | relative_url }})
-{% endfor %}
-
----
 ### Latest
 - [P2P chat for local LLMs via bluetooth protocol. Android] - [Github](https://github.com/zack-dev-cm/meshmcp)
 
@@ -50,6 +40,18 @@ This section provides a glimpse into projects I've developed. For quick navigati
 - [Dishes Recognition & Nutrition Goals Telegram Bot](https://t.me/calorio_yf_bot)
 **Description**:
 Telegram bot that recognizes dishes via user-submitted photos/audio or descriptions and helps users set and track their nutrition targets through conversational interaction. 1,000+ users
+
+
+
+---
+
+## Selected Projects
+
+This section provides a glimpse into projects I've developed. For quick navigation:
+
+{% for project in site.data.projects %}
+{{ forloop.index }}. [{{ project.title }}]({{ project.url | relative_url }})
+{% endfor %}
 
 
 
