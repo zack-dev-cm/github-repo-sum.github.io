@@ -7,7 +7,7 @@ title: About Me
 
 # About Me
 
-I'm a Deep Learning and Computer Vision enthusiast passionate about building solutions spark curiosity and do some small usefull thing. You'll often find me engrossed in training neural networks or architecting AI agents capable of autonomously navigating Android UIs. Below is an overview of my journey, expertise, and some projects I've brought to life.
+I'm a Deep Learning and Computer Vision enthusiast passionate about building solutions spark curiosity and do some small usefull thing. You'll often find me engrossed in training neural networks or architecting AI agents capable of autonomously navigating UIs. Below is an overview of my journey, expertise, and some projects I've brought to life.
 
 
 
