@@ -29,7 +29,7 @@ I'm a Deep Learning and Computer Vision enthusiast passionate about building sol
 ---
 ### Latest
 
-- P2P chat for local LLMs via bluetooth protocol. android app. [Github](https://github.com/zack-dev-cm/meshmcp)
+- P2P chat for local LLMs via bluetooth protocol. android app. [meshmcp](https://github.com/zack-dev-cm/meshmcp)
 
 - [Make promo and reflinks webapp](https://analytics-mcp-1095464065298.us-east1.run.app) – Generate personalized promo and referral links with built-in analytics tracking
 
