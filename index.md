@@ -16,7 +16,7 @@ I'm a Deep Learning and Computer Vision enthusiast passionate about building sol
 -   **Senior Deep Learning Engineer** with 7+ years of dedicated experience, specializing in areas from image classification and segmentation to Optical Character Recognition (OCR) and advanced multi-modal Transformer reasoning models.
 -   **Upwork Top Rated Plus Contractor**, consistently ranked in the **top 1% of AI developers**
 -   **Proven Mentor & Educator**, having led corporate training programs, instructed undergraduates in Computer Vision fundamentals, and discovered a passion for knowledge sharing.
--   **Hackathon Finalist**, DigitalTransformation, PicsArt AI.
+
 ---
 
 ## My Tech Stack
