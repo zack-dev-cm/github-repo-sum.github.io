@@ -31,16 +31,16 @@ I'm a Deep Learning and Computer Vision enthusiast passionate about building sol
 
 - P2P chat for local LLMs via bluetooth protocol. android app. [meshmcp. See in github](https://github.com/zack-dev-cm/meshmcp)
 
-- [Make promo and reflinks webapp](https://analytics-mcp-1095464065298.us-east1.run.app) – Generate personalized promo and referral links with built-in analytics tracking
+- [Make promo and reflinks webapp](https://analytics-mcp-1095464065298.us-east1.run.app) – Generate personalized promo and referral links with built-in analytics tracking.
 
-- [YouTube Trendwatch ](https://github.com/zack-dev-cm/trendwatch/blob/main/trendwatch_yt.ipynb) – [Run in Colab](https://colab.research.google.com/github/zack-dev-cm/trendwatch/blob/main/trendwatch_yt.ipynb)
+- [YouTube Trendwatch ](https://github.com/zack-dev-cm/trendwatch/blob/main/trendwatch_yt.ipynb) – [Run in Colab](https://colab.research.google.com/github/zack-dev-cm/trendwatch/blob/main/trendwatch_yt.ipynb) - Analyze YouTube trends 
 
 - [Video/Music generation pipeline. Youtube shorts example](https://www.youtube.com/shorts/_5dVaQdB1lA) - [Music generation. Run in Colab](https://colab.research.google.com/drive/1f5XAGo_A27u15az5f-2mhWs7qUkJ8mK4)
 
 
 - [Dishes Recognition & Nutrition Goals Telegram Bot](https://t.me/calorio_yf_bot)
 **Description**:
-Telegram bot that recognizes dishes via user-submitted photos/audio or descriptions and helps users set and track their nutrition targets through conversational interaction. 1,000+ users
+Telegram bot that recognizes dishes via user-submitted photos/audio or descriptions and helps users set and track their nutrition targets through conversational interaction. 1,000+ users.
 
 
 
