@@ -339,7 +339,7 @@ This section provides a glimpse into projects I've developed. For quick navigati
 
 ---
 
-### 21. MCP-Server – Multimodal Control Plane
+### 21. MCP-Server – Base Muititools
 **Description**: The backbone for orchestrating VLM/LLM demo agents. Exposes declarative pipeline configs, autoscaling workers, and real-time event feeds. Can be integrated with other services.
 
 **Key Features**: Declarative AI pipelines, autoscaling infrastructure, real-time event monitoring, orchestration for VLM/LLM agents.
@@ -350,7 +350,7 @@ This section provides a glimpse into projects I've developed. For quick navigati
 
 ---
 
-### 22. Tool-Calls Demo – Material Chat Playground
+### 22. Tool-Calls Demo – Realtime OpenAI models calling
 **Description**: Showcases OpenAI’s tool-calling flow with streaming function arguments, multi-voice synthesis, and a secure serverless token proxy.
 
 **Key Features**: Streaming tool calls, multi-voice TTS, secure serverless architecture.

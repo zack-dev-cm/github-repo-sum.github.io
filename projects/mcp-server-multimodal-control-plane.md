@@ -1,6 +1,6 @@
 ---
 layout: default
-title: 'MCP-Server – Multimodal Control Plane'
+title: 'MCP-Server – Base Muititools'
 ---
 
 **Description**: The backbone for orchestrating VLM/LLM demo agents. Exposes declarative pipeline configs, autoscaling workers, and real-time event feeds. Can be integrated with other services.
