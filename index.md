@@ -213,6 +213,9 @@ This section provides a glimpse into projects I've developed. For quick navigati
 
 **Link**: [GitHub Repo Summarizer on Chrome Web Store](https://chromewebstore.google.com/detail/github-repo-summarizer/ccikgbjalcbokaalidnfcjhhbhjoljfm)
 
+**Github**: [GitHub Repo Summarizer](https://github.com/zack-dev-cm/github-repo-sum-chrome-plugin)
+
+
 ---
 
 ### 13. ChatGPT|Codex|Deepseek|AIStudio Navigator (Chrome Extension)

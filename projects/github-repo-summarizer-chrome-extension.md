@@ -11,3 +11,5 @@ title: 'GitHub Repo Summarizer (Chrome Extension)'
 
 **Link**: [GitHub Repo Summarizer on Chrome Web Store](https://chromewebstore.google.com/detail/github-repo-summarizer/ccikgbjalcbokaalidnfcjhhbhjoljfm)
 
+**Github**: [GitHub Repo Summarizer](https://github.com/zack-dev-cm/github-repo-sum-chrome-plugin)
+
