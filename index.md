@@ -21,10 +21,10 @@ I'm a Deep Learning and Computer Vision enthusiast passionate about building sol
 
 ## My Tech Stack
 
--   **Frameworks & Libraries**: PyTorch, TensorFlow, Keras, FastAI, OpenAI APIs, CLIP, Vision-Language Foundation Models (VLMs), LLMs.
+-   **Frameworks & Libraries**: PyTorch, TensorFlow, Keras, OpenCV, OpenAI APIs, CLIP, Vision-Language Foundation Models (VLMs), LLMs.
 -   **Programming Languages**: Primarily Python; proficient in Dart (Flutter), Kotlin, Swift; JS, C++, Java for supporting roles.
 -   **DevOps & Infrastructure**: Google Cloud Platform (GCP), Amazon Web Services (AWS), Docker, Kubernetes, Cloud Build, Cloud Run, and robust ML Ops practices.
--   **Mobile & Embedded Optimization**: TensorRT, TensorFlow Lite (TFLite), CoreML, ONNX for efficient on-device deployment.
+-   **Mobile & Embedded Optimization**: TensorRT, TensorFlow Lite (TFLite), CoreML, ONNX/OpenVino for efficient on-device or constraint CPU server deployment.
 
 ---
 ### Latest
