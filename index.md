@@ -14,11 +14,9 @@ I’m a Deep Learning and Computer Vision engineer driven by curiosity and a pas
   <div class="logo-grid">
     <img src="https://upload.wikimedia.org/wikipedia/commons/a/ad/Entrust_textlogo.svg" alt="Entrust Logo">
     <img src="https://iconape.com/wp-content/png_logo_vector/lumenis-ltd-logo.png" alt="Lumenis Logo">
-    <div class="logo-with-text">
-      <img src="//logotyp.us/file/carb-manager.svg" alt="Carb Manager">
-      <!-- <span>Carb Manager</span> -->
-    </div>
-    <img src="https://upload.wikimedia.org/wikipedia/commons/c/cc/Logo_Gorillas_(delivery_company)_color.svg" alt="Gorillas Logo">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/c/cc/Logo_Gorillas_(delivery_company)_color.svg" 
+    alt="Gorillas Logo">
+    <img src="//logotyp.us/file/carb-manager.svg" alt="Carb Manager">
     <img src="http://chinamanufacturingdirect.com/cmd_new_site/images/home_banner_1.jpg" alt="China Manufacturing Direct">
     <img src="https://stellarix.com/wp-content/themes/stellarix/assets/images/logo.png" alt="Stellarix">
     <img src="https://assets.adityatrading.in/media/images/ipo/stocklogo/Synoptics%20Technologies%20Limited%20Logo/Synoptics_Technologies_Limited_Logo.png" alt="Synoptic Technologies">
@@ -100,24 +98,6 @@ I’m a Deep Learning and Computer Vision engineer driven by curiosity and a pas
   height: auto;
   /* Ensure consistent spacing */
   flex-shrink: 0;
-}
-
-.logo-with-text {
-  display: flex;
-  flex-direction: column;
-  align-items: center;
-  justify-content: center;
-  min-width: 120px; /* Ensures bigger presence */
-}
-.logo-with-text img {
-  max-height: 60px;
-  width: auto;
-}
-.logo-with-text span {
-  margin-top: 0.3rem;
-  font-size: 0.8rem;
-  font-weight: 600;
-  color: #333;
 }
 </style>
 
