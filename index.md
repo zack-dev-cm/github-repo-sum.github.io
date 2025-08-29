@@ -17,8 +17,8 @@ Companies I've collaborated with:
     <img src="https://iconape.com/wp-content/png_logo_vector/lumenis-ltd-logo.png" alt="Lumenis Logo">
     <img src="//logotyp.us/file/carb-manager.svg" alt="Carb Manager">
     <img src="https://upload.wikimedia.org/wikipedia/commons/c/cc/Logo_Gorillas_(delivery_company)_color.svg" alt="Gorillas Logo">
+    <img src="http://chinamanufacturingdirect.com/cmd_new_site/images/home_banner_1.jpg" alt="China Manufacturing Direct">
     <img src="https://upload.wikimedia.org/wikipedia/commons/d/d4/STELLARIX_SPACE.png" alt="Stellarix Space Logo">
-    <div class="logo-fallback">China Manufacturing Direct</div>
     <div class="logo-fallback">Synoptic Technologies</div>
     <img src="https://www.pngkey.com/png/full/568-5688498_next-milliken-company-logo.png" alt="Milliken & Company Logo">
     <img src="https://upload.wikimedia.org/wikipedia/commons/f/fc/Cft_logo_ru.png" alt="CFT Logo">
