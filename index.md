@@ -99,6 +99,17 @@ I’m a Deep Learning and Computer Vision engineer driven by curiosity and a pas
   /* Ensure consistent spacing */
   flex-shrink: 0;
 }
+
+.logo-grid img {
+  flex-shrink: 0;
+  max-height: 70px;
+  object-fit: contain;
+}
+
+.logo-grid img[alt="Carb Manager"] {
+  max-height: 90px;
+  min-width: 120px;
+}
 </style>
 
 
