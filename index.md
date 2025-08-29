@@ -111,9 +111,9 @@ I’m a Deep Learning and Computer Vision engineer driven by curiosity and a pas
 
 ## Key Highlights
 
--   **Senior Deep Learning Engineer** with 7+ years of dedicated experience, specializing in areas from image classification and segmentation to Optical Character Recognition (OCR) and advanced multi-modal Transformer reasoning models.
+-   **Senior Deep Learning Engineer** with **7+ years** of dedicated experience, specializing in areas from image classification and segmentation to Optical Character Recognition (OCR) and advanced multi-modal Transformer reasoning models.
 -   **Upwork Top Rated Plus Contractor**, consistently ranked in the **top 1% of AI developers**
--   **Proven Mentor & Educator**, having led corporate training programs, instructed undergraduates in Computer Vision fundamentals, and discovered a passion for knowledge sharing.
+-   **Proven Mentor & Educator**, having led corporate training programs, instructed undergraduates in Computer Vision and Deep Learning fundamentals, and discovered a passion for knowledge sharing.
 
 ---
 
@@ -138,7 +138,7 @@ I’m a Deep Learning and Computer Vision engineer driven by curiosity and a pas
 
 - [Dishes Recognition & Nutrition Goals Telegram Bot](https://t.me/calorio_yf_bot)
 **Description**:
-Telegram bot that recognizes dishes via user-submitted photos/audio or descriptions and helps users set and track their nutrition targets through conversational interaction. 1,000+ users.
+Telegram bot that recognizes dishes via user-submitted photos/audio or descriptions and helps users set and track their nutrition targets through conversational interaction. **1,000+ users**.
 
 
 
