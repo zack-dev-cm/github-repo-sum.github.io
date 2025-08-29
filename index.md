@@ -17,12 +17,12 @@ I’m a Deep Learning and Computer Vision engineer driven by curiosity and a pas
     <img src="//logotyp.us/file/carb-manager.svg" alt="Carb Manager">
     <img src="https://upload.wikimedia.org/wikipedia/commons/c/cc/Logo_Gorillas_(delivery_company)_color.svg" 
     alt="Gorillas Logo">
-    <img src="http://chinamanufacturingdirect.com/cmd_new_site/images/home_banner_1.jpg" alt="China Manufacturing Direct">
     <img src="https://stellarix.com/wp-content/themes/stellarix/assets/images/logo.png" alt="Stellarix">
     <img src="https://assets.adityatrading.in/media/images/ipo/stocklogo/Synoptics%20Technologies%20Limited%20Logo/Synoptics_Technologies_Limited_Logo.png" alt="Synoptic Technologies">
     <img src="https://www.pngkey.com/png/full/568-5688498_next-milliken-company-logo.png" alt="Milliken & Company Logo">
     <img src="https://upload.wikimedia.org/wikipedia/commons/f/fc/Cft_logo_ru.png" alt="CFT">
     <img src="https://logotic.me/system/assets/uploads/vector-files/koronapay-1669936470-logotic-brand.svg" alt="Korona Pay Logo">
+    <img src="https://cdn0.trampos.co/companies/logos/1139740/ea11bdb2d783c2563c6dd26e9267d10db671ab49/original/CURV_-_WHITE_BACKGROUNG.png" alt="Curv Innovation">
 
 
   </div>
