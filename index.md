@@ -9,6 +9,33 @@ title: About Me
 
 I'm a Deep Learning and Computer Vision enthusiast passionate about building solutions spark curiosity and do some small usefull thing. You'll often find me engrossed in training neural networks or architecting AI agents capable of autonomously navigating UIs. Below is an overview of my journey, expertise, and some projects I've brought to life.
 
+<div class="logo-carousel">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/a/ad/Entrust_textlogo.svg" alt="Entrust Logo">
+  <img src="https://images.seeklogo.com/logo-png/9/1/milliken-logo-png_seeklogo-92814.png" alt="Milliken & Company Logo">
+  <img src="https://images.seeklogo.com/logo-png/36/1/lumenis-ltd-logo-png_seeklogo-367346.png" alt="Lumenis Logo">
+  <img src="https://vectorseek.com/wp-content/uploads/2023/04/Carb-Manager-Logo-Vector.jpg" alt="Carb Manager Logo (Wombat Apps)">
+</div>
+
+<style>
+.logo-carousel {
+  display: flex;
+  align-items: center;
+  gap: 2rem;
+  padding: 1rem 0;
+  overflow-x: auto;
+  /* Hide scrollbar for modern look */
+  scrollbar-width: none;
+}
+.logo-carousel::-webkit-scrollbar {
+  display: none;
+}
+.logo-carousel img {
+  max-height: 4rem;
+  height: auto;
+  /* Ensure consistent spacing */
+  flex-shrink: 0;
+}
+</style>
 
 
 ## Key Highlights
@@ -29,7 +56,9 @@ I'm a Deep Learning and Computer Vision enthusiast passionate about building sol
 ---
 ### Latest
 
-- P2P chat for local LLMs via bluetooth protocol. android app. [meshmcp. See in github](https://github.com/zack-dev-cm/meshmcp)
+- MeshCa AI - car diagnostics ai expert with car to car P2P chat
+
+- Offline P2P chat for local LLMs via bluetooth mesh. android app. [meshmcp. See in github](https://github.com/zack-dev-cm/meshmcp)
 
 - [Make promo and reflinks webapp](https://analytics-mcp-1095464065298.us-east1.run.app) – Generate personalized promo and referral links with built-in analytics tracking.
 
