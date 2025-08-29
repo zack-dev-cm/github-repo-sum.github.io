@@ -10,12 +10,78 @@ title: About Me
 I'm a Deep Learning and Computer Vision enthusiast passionate about building solutions spark curiosity and do some small usefull thing. You'll often find me engrossed in training neural networks or architecting AI agents capable of autonomously navigating UIs. Below is an overview of my journey, expertise, and some projects I've brought to life.
 Companies I've collaborated with:
 
-<div class="logo-carousel">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/a/ad/Entrust_textlogo.svg" alt="Entrust Logo">
-  <img src="https://images.seeklogo.com/logo-png/9/1/milliken-logo-png_seeklogo-92814.png" alt="Milliken & Company Logo">
-  <img src="https://images.seeklogo.com/logo-png/36/1/lumenis-ltd-logo-png_seeklogo-367346.png" alt="Lumenis Logo">
-  <img src="https://vectorseek.com/wp-content/uploads/2023/04/Carb-Manager-Logo-Vector.jpg" alt="Carb Manager Logo (Wombat Apps)">
-</div>
+<section class="work-with-title">
+  <h2>Companies I've Collaborated With</h2>
+  <div class="logo-grid">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/a/ad/Entrust_textlogo.svg" alt="Entrust Logo">
+    <img src="https://www.pngkey.com/png/full/568-5688498_next-milliken-company-logo.png" alt="Milliken & Company Logo">
+    <img src="https://iconape.com/wp-content/png_logo_vector/lumenis-ltd-logo.png" alt="Lumenis Logo">
+    <img src="https://images.seeklogo.com/logo-png/52/1/carb-manager-logo-png_seeklogo-526823.png" alt="Carb Manager Logo (Wombat Apps)">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/c/cc/Logo_Gorillas_(delivery_company)_color.svg" alt="Gorillas Logo">
+    <div class="logo-fallback">Curv Innovation</div>
+    <div class="logo-fallback">China Manufacturing Direct</div>
+    <div class="logo-fallback">Synoptic Technologies</div>
+    <div class="logo-fallback">Lisnen</div>
+    <div class="logo-fallback">CFT Fintech</div>
+    <img src="https://logotic.me/system/assets/uploads/vector-files/koronapay-1669936470-logotic-brand.svg" alt="Korona Pay Logo">
+    <div class="logo-fallback">Daloopa</div>
+    <div class="logo-fallback">Wonderway</div>
+    <div class="logo-fallback">Yaza.io</div>
+    <div class="logo-fallback">BeagleMind</div>
+  </div>
+</section>
+
+<style>
+.work-with-title {
+  text-align: center;
+  margin: 2rem 0;
+}
+.work-with-title h2 {
+  font-size: 2rem;
+  margin-bottom: 1rem;
+}
+.logo-grid {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  gap: 1.5rem;
+}
+.logo-grid img,
+.logo-grid .logo-fallback {
+  flex-shrink: 0;
+  max-height: 70px;
+}
+.logo-grid img:nth-child(1) { max-height: 70px; }
+.logo-grid img:nth-child(2) { max-height: 65px; }
+.logo-grid img:nth-child(3) { max-height: 60px; }
+.logo-grid img:nth-child(4) { max-height: 55px; }
+.logo-grid img:nth-child(5) { max-height: 50px; }
+.logo-grid img:nth-child(6),
+.logo-grid .logo-fallback:nth-child(6) { max-height: 45px; }
+.logo-grid img:nth-child(7),
+.logo-grid .logo-fallback:nth-child(7) { max-height: 42px; }
+.logo-grid img:nth-child(8),
+.logo-grid .logo-fallback:nth-child(8) { max-height: 40px; }
+.logo-grid img:nth-child(9),
+.logo-grid .logo-fallback:nth-child(9) { max-height: 38px; }
+.logo-grid img:nth-child(10),
+.logo-grid .logo-fallback:nth-child(10) { max-height: 36px; }
+.logo-grid img:nth-child(11) { max-height: 34px; }
+.logo-grid .logo-fallback:nth-child(12) { max-height: 32px; }
+.logo-grid .logo-fallback:nth-child(13) { max-height: 30px; }
+.logo-grid .logo-fallback:nth-child(14) { max-height: 28px; }
+.logo-grid .logo-fallback:nth-child(15) { max-height: 26px; }
+
+.logo-fallback {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  padding: 0.5rem 1rem;
+  border: 1px solid #ccc;
+  border-radius: 6px;
+  font-size: 0.9rem;
+  background: #f9f
+
 
 <style>
 .logo-carousel {
