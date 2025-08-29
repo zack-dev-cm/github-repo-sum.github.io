@@ -37,6 +37,8 @@ I’m a Deep Learning and Computer Vision engineer driven by curiosity and a pas
   font-size: 2rem;
   margin-bottom: 1rem;
 }
+
+/* Logo grid layout */
 .logo-grid {
   display: flex;
   flex-wrap: wrap;
@@ -47,28 +49,34 @@ I’m a Deep Learning and Computer Vision engineer driven by curiosity and a pas
 .logo-grid .logo-fallback {
   flex-shrink: 0;
   max-height: 70px;
+  object-fit: contain;
 }
+
+/* Progressive scaling per logo slot */
 .logo-grid img:nth-child(1) { max-height: 70px; }
 .logo-grid img:nth-child(2) { max-height: 65px; }
 .logo-grid img:nth-child(3) { max-height: 60px; }
 .logo-grid img:nth-child(4) { max-height: 55px; }
 .logo-grid img:nth-child(5) { max-height: 50px; }
-.logo-grid img:nth-child(6),
-.logo-grid .logo-fallback:nth-child(6) { max-height: 45px; }
-.logo-grid img:nth-child(7),
-.logo-grid .logo-fallback:nth-child(7) { max-height: 42px; }
-.logo-grid img:nth-child(8),
-.logo-grid .logo-fallback:nth-child(8) { max-height: 40px; }
-.logo-grid img:nth-child(9),
-.logo-grid .logo-fallback:nth-child(9) { max-height: 38px; }
-.logo-grid img:nth-child(10),
-.logo-grid .logo-fallback:nth-child(10) { max-height: 36px; }
+.logo-grid img:nth-child(6) { max-height: 45px; }
+.logo-grid img:nth-child(7) { max-height: 42px; }
+.logo-grid img:nth-child(8) { max-height: 40px; }
+.logo-grid img:nth-child(9) { max-height: 38px; }
+.logo-grid img:nth-child(10) { max-height: 36px; }
 .logo-grid img:nth-child(11) { max-height: 34px; }
-.logo-grid .logo-fallback:nth-child(12) { max-height: 32px; }
-.logo-grid .logo-fallback:nth-child(13) { max-height: 30px; }
-.logo-grid .logo-fallback:nth-child(14) { max-height: 28px; }
-.logo-grid .logo-fallback:nth-child(15) { max-height: 26px; }
+.logo-grid img:nth-child(12) { max-height: 32px; }
+.logo-grid img:nth-child(13) { max-height: 30px; }
+.logo-grid img:nth-child(14) { max-height: 28px; }
+.logo-grid img:nth-child(15) { max-height: 26px; }
 
+/* Special case: Carb Manager logo enlargement */
+.logo-grid img[alt="Carb Manager"] {
+  max-height: 90px;
+  min-width: 120px;
+  object-fit: contain;
+}
+
+/* Fallback style */
 .logo-fallback {
   display: flex;
   align-items: center;
@@ -77,40 +85,28 @@ I’m a Deep Learning and Computer Vision engineer driven by curiosity and a pas
   border: 1px solid #ccc;
   border-radius: 6px;
   font-size: 0.9rem;
-  background: #f9f
+  background: #f9f9f9;
+}
 
-
-<style>
+/* Horizontal logo carousel */
 .logo-carousel {
   display: flex;
   align-items: center;
   gap: 2rem;
   padding: 1rem 0;
   overflow-x: auto;
-  /* Hide scrollbar for modern look */
-  scrollbar-width: none;
+  scrollbar-width: none; /* Firefox */
 }
 .logo-carousel::-webkit-scrollbar {
-  display: none;
+  display: none; /* Chrome/Safari */
 }
 .logo-carousel img {
   max-height: 4rem;
   height: auto;
-  /* Ensure consistent spacing */
   flex-shrink: 0;
-}
-
-.logo-grid img {
-  flex-shrink: 0;
-  max-height: 70px;
-  object-fit: contain;
-}
-
-.logo-grid img[alt="Carb Manager"] {
-  max-height: 90px;
-  min-width: 120px;
 }
 </style>
+
 
 
 ## Key Highlights
