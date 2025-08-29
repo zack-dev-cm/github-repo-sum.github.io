@@ -16,7 +16,7 @@ I’m a Deep Learning and Computer Vision engineer driven by curiosity and a pas
     <img src="https://iconape.com/wp-content/png_logo_vector/lumenis-ltd-logo.png" alt="Lumenis Logo">
     <div class="logo-with-text">
       <img src="//logotyp.us/file/carb-manager.svg" alt="Carb Manager">
-      <span>Carb Manager</span>
+      <!-- <span>Carb Manager</span> -->
     </div>
     <img src="https://upload.wikimedia.org/wikipedia/commons/c/cc/Logo_Gorillas_(delivery_company)_color.svg" alt="Gorillas Logo">
     <img src="http://chinamanufacturingdirect.com/cmd_new_site/images/home_banner_1.jpg" alt="China Manufacturing Direct">
