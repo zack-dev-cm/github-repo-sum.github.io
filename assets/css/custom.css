@@ -36,6 +36,22 @@ img {
   display: block;
 }
 
+.telegram-button {
+  position: fixed;
+  bottom: 1rem;
+  left: 1rem;
+  display: none;
+  padding: 0.5rem 0.75rem;
+  background: #0088cc;
+  color: #fff;
+  border-radius: 4px;
+  text-decoration: none;
+}
+
+.telegram-button.active {
+    display: block;
+}
+
 .ascii-banner {
   color: #39ff14;
   text-shadow: 0 0 5px #39ff14;

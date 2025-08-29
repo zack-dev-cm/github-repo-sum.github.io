@@ -1,0 +1,13 @@
+<a href="https://t.me/rheuiii" class="telegram-button" id="telegramButton" target="_blank" rel="noopener noreferrer">
+  Reach me on Telegram
+</a>
+<script>
+  const telegramBtn = document.getElementById('telegramButton');
+  window.addEventListener('scroll', () => {
+    if (window.scrollY > (document.body.scrollHeight / 2)) {
+      telegramBtn.classList.add('active');
+    } else {
+      telegramBtn.classList.remove('active');
+    }
+  });
+</script>
