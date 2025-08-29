@@ -19,7 +19,7 @@ Companies I've collaborated with:
     <img src="https://upload.wikimedia.org/wikipedia/commons/c/cc/Logo_Gorillas_(delivery_company)_color.svg" alt="Gorillas Logo">
     <img src="http://chinamanufacturingdirect.com/cmd_new_site/images/home_banner_1.jpg" alt="China Manufacturing Direct">
     <img src="https://upload.wikimedia.org/wikipedia/commons/d/d4/STELLARIX_SPACE.png" alt="Stellarix Space Logo">
-    <div class="logo-fallback">Synoptic Technologies</div>
+    <img src="https://assets.adityatrading.in/media/images/ipo/stocklogo/Synoptics%20Technologies%20Limited%20Logo/Synoptics_Technologies_Limited_Logo.png" alt="Synoptic Technologies">
     <img src="https://www.pngkey.com/png/full/568-5688498_next-milliken-company-logo.png" alt="Milliken & Company Logo">
     <img src="https://upload.wikimedia.org/wikipedia/commons/f/fc/Cft_logo_ru.png" alt="CFT Logo">
     <img src="https://logotic.me/system/assets/uploads/vector-files/koronapay-1669936470-logotic-brand.svg" alt="Korona Pay Logo">
