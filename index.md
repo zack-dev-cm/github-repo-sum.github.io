@@ -8,60 +8,14 @@ title: About Me
 # About Me
 
 I'm a Deep Learning and Computer Vision enthusiast passionate about building solutions spark curiosity and do some small usefull thing. You'll often find me engrossed in training neural networks or architecting AI agents capable of autonomously navigating UIs. Below is an overview of my journey, expertise, and some projects I've brought to life.
+Companies I've collaborated with:
 
-<section class="work-with-title">
-  <h2>Companies I've Collaborated With</h2>
-  <div class="logo-grid">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/a/ad/Entrust_textlogo.svg" alt="Entrust Logo">
-    <img src="https://cdnlogo.com/logo/milliken_16099.html" alt="Milliken & Company Logo">
-    <img src="https://tukuz.com/download-logo-vector-2905/" alt="Lumenis Logo">
-    <img src="https://vectorseek.com/vector_logo/carb-manager-logo-vector/" alt="Carb Manager Logo">
-    <!-- Additional logos (placeholders/prioritize smaller): -->
-    <img src="https://via.placeholder.com/150?text=Gorillas+Logo" alt="Gorillas Logo">
-    <img src="https://via.placeholder.com/140?text=Curv+Innovation" alt="Curv Innovation Logo">
-    <img src="https://via.placeholder.com/130?text=China+Mfg+Direct" alt="China Manufacturing Direct Logo">
-    <img src="https://via.placeholder.com/120?text=Lumenis+BE" alt="Lumenis BE Logo">
-    <img src="https://via.placeholder.com/110?text=Synoptic+Tech" alt="Synoptic Technologies Logo">
-
-  </div>
-</section>
-
-<style>
-.work-with-title {
-  text-align: center;
-  margin: 2rem 0;
-}
-.work-with-title h2 {
-  font-size: 2rem;
-  margin-bottom: 1rem;
-}
-.logo-grid {
-  display: flex;
-  justify-content: center;
-  flex-wrap: wrap;
-  gap: 1rem;
-}
-.logo-grid img {
-  max-width: 150px; /* Largest */
-  height: auto;
-  flex-shrink: 0;
-  transition: opacity 0.3s;
-}
-.logo-grid img:nth-child(2) { max-width: 140px; }
-.logo-grid img:nth-child(3) { max-width: 130px; }
-.logo-grid img:nth-child(4) { max-width: 120px; }
-.logo-grid img:nth-child(5) { max-width: 110px; }
-.logo-grid img:nth-child(6) { max-width: 100px; }
-.logo-grid img:nth-child(7) { max-width: 90px; }
-.logo-grid img:nth-child(8) { max-width: 80px; }
-.logo-grid img:nth-child(9) { max-width: 70px; }
-.logo-grid img:nth-child(10) { max-width: 60px; }
-
-.logo-grid img:hover {
-  opacity: 0.8;
-}
-</style>
-
+<div class="logo-carousel">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/a/ad/Entrust_textlogo.svg" alt="Entrust Logo">
+  <img src="https://images.seeklogo.com/logo-png/9/1/milliken-logo-png_seeklogo-92814.png" alt="Milliken & Company Logo">
+  <img src="https://images.seeklogo.com/logo-png/36/1/lumenis-ltd-logo-png_seeklogo-367346.png" alt="Lumenis Logo">
+  <img src="https://vectorseek.com/wp-content/uploads/2023/04/Carb-Manager-Logo-Vector.jpg" alt="Carb Manager Logo (Wombat Apps)">
+</div>
 
 <style>
 .logo-carousel {
