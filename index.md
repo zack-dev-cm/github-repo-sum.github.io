@@ -15,7 +15,7 @@ Companies I've collaborated with:
   <div class="logo-grid">
     <img src="https://upload.wikimedia.org/wikipedia/commons/a/ad/Entrust_textlogo.svg" alt="Entrust Logo">
     <img src="https://iconape.com/wp-content/png_logo_vector/lumenis-ltd-logo.png" alt="Lumenis Logo">
-    <img src="https://images.seeklogo.com/logo-png/52/1/carb-manager-logo-png_seeklogo-526823.png" alt="Carb Manager Logo (Wombat Apps)">
+    <img src="//logotyp.us/file/carb-manager.svg" alt="Carb Manager">
     <img src="https://upload.wikimedia.org/wikipedia/commons/c/cc/Logo_Gorillas_(delivery_company)_color.svg" alt="Gorillas Logo">
     <img src="https://upload.wikimedia.org/wikipedia/commons/d/d4/STELLARIX_SPACE.png" alt="Stellarix Space Logo">
     <div class="logo-fallback">China Manufacturing Direct</div>
