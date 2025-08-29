@@ -7,8 +7,7 @@ title: About Me
 
 # About Me
 
-I'm a Deep Learning and Computer Vision enthusiast passionate about building solutions spark curiosity and do some small usefull thing. You'll often find me engrossed in training neural networks or architecting AI agents capable of autonomously navigating UIs. Below is an overview of my journey, expertise, and some projects I've brought to life.
-Companies I've collaborated with:
+I’m a Deep Learning and Computer Vision engineer driven by curiosity and a passion for creating practical AI solutions. Whether training neural networks or designing autonomous agents that navigate UIs, I focus on turning ideas into real-world systems. Below is an overview of my journey, expertise, and selected projects — along with some of the companies I’ve had the privilege to collaborate with:
 
 <section class="work-with-title">
 
