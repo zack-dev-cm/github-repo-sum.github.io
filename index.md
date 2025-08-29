@@ -71,8 +71,8 @@ I’m a Deep Learning and Computer Vision engineer driven by curiosity and a pas
 
 /* Special case: Carb Manager logo enlargement */
 .logo-grid img[alt="Carb Manager"] {
-  max-height: 90px;
-  min-width: 120px;
+  max-height: 120px;
+  /* min-width: 120px; */
   object-fit: contain;
 }
 
