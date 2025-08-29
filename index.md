@@ -23,6 +23,8 @@ I’m a Deep Learning and Computer Vision engineer driven by curiosity and a pas
     <img src="https://upload.wikimedia.org/wikipedia/commons/f/fc/Cft_logo_ru.png" alt="CFT">
     <img src="https://logotic.me/system/assets/uploads/vector-files/koronapay-1669936470-logotic-brand.svg" alt="Korona Pay Logo">
     <img src="https://cdn0.trampos.co/companies/logos/1139740/ea11bdb2d783c2563c6dd26e9267d10db671ab49/original/CURV_-_WHITE_BACKGROUNG.png" alt="Curv Innovation">
+    <img src="http://chinamanufacturingdirect.com/cmd_new_site/images/home_banner_1.jpg" alt="China Manufacturing Direct">
+  
 
 
   </div>
