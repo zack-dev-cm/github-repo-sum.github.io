@@ -11,7 +11,7 @@ I'm a Deep Learning and Computer Vision enthusiast passionate about building sol
 Companies I've collaborated with:
 
 <section class="work-with-title">
-  <h2>Companies I've Collaborated With</h2>
+
   <div class="logo-grid">
     <img src="https://upload.wikimedia.org/wikipedia/commons/a/ad/Entrust_textlogo.svg" alt="Entrust Logo">
     <img src="https://www.pngkey.com/png/full/568-5688498_next-milliken-company-logo.png" alt="Milliken & Company Logo">
