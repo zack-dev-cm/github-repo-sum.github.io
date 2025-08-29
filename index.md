@@ -107,10 +107,10 @@ I’m a Deep Learning and Computer Vision engineer driven by curiosity and a pas
   flex-direction: column;
   align-items: center;
   justify-content: center;
-  min-width: 150px; /* Ensures bigger presence */
+  min-width: 120px; /* Ensures bigger presence */
 }
 .logo-with-text img {
-  max-height: 90px;
+  max-height: 60px;
   width: auto;
 }
 .logo-with-text span {
