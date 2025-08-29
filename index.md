@@ -17,11 +17,11 @@ Companies I've collaborated with:
     <img src="https://iconape.com/wp-content/png_logo_vector/lumenis-ltd-logo.png" alt="Lumenis Logo">
     <img src="https://images.seeklogo.com/logo-png/52/1/carb-manager-logo-png_seeklogo-526823.png" alt="Carb Manager Logo (Wombat Apps)">
     <img src="https://upload.wikimedia.org/wikipedia/commons/c/cc/Logo_Gorillas_(delivery_company)_color.svg" alt="Gorillas Logo">
-    <img src="https://www.pngkey.com/png/full/568-5688498_next-milliken-company-logo.png" alt="Milliken & Company Logo">
     <div class="logo-fallback">Curv Innovation</div>
     <div class="logo-fallback">China Manufacturing Direct</div>
     <div class="logo-fallback">Synoptic Technologies</div>
     <div class="logo-fallback">CFT Fintech</div>
+    <img src="https://www.pngkey.com/png/full/568-5688498_next-milliken-company-logo.png" alt="Milliken & Company Logo">
     <img src="https://logotic.me/system/assets/uploads/vector-files/koronapay-1669936470-logotic-brand.svg" alt="Korona Pay Logo">
 
 
