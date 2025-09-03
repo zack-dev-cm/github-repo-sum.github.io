@@ -129,7 +129,7 @@ I’m a Deep Learning and Computer Vision engineer driven by curiosity and a pas
 ---
 ### Latest
 
-- Offline P2P chat for local LLMs via bluetooth mesh. android app. [meshmcp. See in github](https://github.com/zack-dev-cm/meshmcp)
+- Offline P2P chat for local LLMs allowing reasoning over bluetooth mesh on hardware constrained devices. android app. [meshmcp. See in github](https://github.com/zack-dev-cm/meshmcp)
 
 - [Make promo and reflinks webapp](https://analytics-mcp-1095464065298.us-east1.run.app) – Generate personalized promo and referral links with built-in analytics tracking.
 
