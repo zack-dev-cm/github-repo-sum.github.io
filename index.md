@@ -129,6 +129,9 @@ I’m a Deep Learning and Computer Vision engineer driven by curiosity and a pas
 ---
 ### Latest
 
+- [Project18 automation stack](https://project018-mcp-1095464065298.us-east1.run.app/) gives B2B teams a ready-to-launch Telegram bot, Mini App, and lead funnel powered by agentic workflows.
+The system design stack unifies GPT-5 orchestration, reusable MCP tools, multi-tenant data stores, and telemetry guardrails across every surface.
+
 - Offline P2P chat for local LLMs allowing reasoning over bluetooth mesh on hardware constrained devices. android app. [meshmcp. See in github](https://github.com/zack-dev-cm/meshmcp)
 
 - [Make promo and reflinks webapp](https://analytics-mcp-1095464065298.us-east1.run.app) – Generate personalized promo and referral links with built-in analytics tracking.
