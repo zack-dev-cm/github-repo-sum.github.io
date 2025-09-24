@@ -214,6 +214,7 @@ Integration Layer (Connectors via MCP)
         v
 Operations Layer (Console, Alerts, Runbooks)
 ```
+![Project018](samples/build_auto/project018.png "Project018")
 
 ---
 
