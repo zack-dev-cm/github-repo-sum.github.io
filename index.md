@@ -162,7 +162,62 @@ This section provides a glimpse into projects I've developed. For quick navigati
 
 ---
 
-### 1. Android Remote Control with VLM AI Agents
+### 1. Project18 Automation Stack
+**Description**: Gives B2B teams a ready-to-launch Telegram bot, Mini App (TWA), Android/iOS/WebApp, and lead funnel powered by agentic workflows.
+
+**Long Description**: Project18 delivers a full automation stack that launches a Telegram bot, companion Mini App, and AI-routed lead funnel in minutes. Under the hood it unifies GPT-5 orchestration, reusable MCP tools, multi-tenant data stores, and telemetry guardrails to keep every customer touchpoint observable and adaptive. The deployment bundles cover every layer from client experiences to observability, so teams can ship confidently.
+
+**Key Features**:
+- Instant Telegram bot & Mini App deployment
+- Agentic workflows nurturing inbound leads
+- Unified telemetry and safety guardrails
+- Deployment bundles covering clients, delivery, orchestration, data, integration, and operations
+
+**Tech Stack**: GPT-5 orchestration, MCP tools, Multi-tenant data stores, Telemetry guardrails.
+
+**Links**: [Live Demo](https://project018-mcp-1095464065298.us-east1.run.app/)
+
+![Project18 Automation Stack](https://placehold.co/600x400?text=Project18 "Project18 Automation Stack")
+
+**Topology Snapshot**:
+
+```
+Clients Layer
+  - Telegram Bot
+  - Telegram Mini App
+  - Landing + Console
+        |
+        v
+Edge & Delivery Layer (CDN / Edge Functions)
+        |
+        v
+Gateway & Policy Layer (API Gateway + Auth)
+        |
+        v
++-----------------------------------------+
+|           Orchestration Layer           |
+| Router -> Persona -> Workflow -> ToolBus|
+|                   |                     |
+|                   v                     |
+|         MCP Tool Mesh Bridge            |
++-----------------------------------------+
+        |
+        v
+Data & Knowledge Layer
+  - Tenant DB / Secrets
+  - Vector Store / Memories
+  - Object & Telemetry Stores
+        |
+        v
+Integration Layer (Connectors via MCP)
+        |
+        v
+Operations Layer (Console, Alerts, Runbooks)
+```
+
+---
+
+### 2. Android Remote Control with VLM AI Agents
 **Description**: An innovative Android application enabling "hands-free" device automation. It captures screenshots and transmits them to server-based Vision-Language AI agents, which then determine and execute the next UI action (tap, swipe, type).
 
 **Key Features**: Real-time instruction processing, automated testing, task automation, novel device interaction.
@@ -175,7 +230,7 @@ This section provides a glimpse into projects I've developed. For quick navigati
 
 ---
 
-### 2. Control VLM-LLM Agent Silently With Your Breath
+### 3. Control VLM-LLM Agent Silently With Your Breath
 **Description**: A system that allows users to start or stop a neural network agent using distinct breathing patterns (e.g., short exhalations to start, smooth exhalation to stop), rather than voice commands. After a calibration phase, it accurately detects commands from breathing sounds or even sniffles.
 
 **Key Features**: Non-verbal AI control, pattern recognition of breathing acoustics.
@@ -188,7 +243,7 @@ This section provides a glimpse into projects I've developed. For quick navigati
 
 ---
 
-### 3. Create, Chat & AR Experience with AI-Character (Text2Room)
+### 4. Create, Chat & AR Experience with AI-Character (Text2Room)
 **Description**: A versatile platform for generating AI "characters," styling them, enabling chat interactions via Telegram, and placing them in Augmented Reality. Features include image/video generation, inpainting, virtual try-on, and reasoning capabilities.
 
 **Key Features**: Ideal for marketing campaigns, creative collaborations, and exploring next-gen generative AI.
@@ -202,7 +257,7 @@ This section provides a glimpse into projects I've developed. For quick navigati
 
 ---
 
-### 4. Label and Inpaint Anything in a Room Interior
+### 5. Label and Inpaint Anything in a Room Interior
 **Description**: An application that allows users to label objects within an interior photo and then seamlessly inpaint (remove or replace) them, complete with realistic shadow and lighting adjustments for convincing makeovers.
 
 **Key Features**: Object segmentation, advanced inpainting with lighting/shadow reconstruction.
@@ -225,7 +280,7 @@ This section provides a glimpse into projects I've developed. For quick navigati
 
 ---
 
-### 5. Smart Drive for Smart City: Predict Optimal Speed
+### 6. Smart Drive for Smart City: Predict Optimal Speed
 **Description**: An AI system designed to enhance urban driving by predicting the optimal speed to approach upcoming traffic lights or navigate traffic jams smoothly, thus potentially reducing abrupt stops and improving fuel efficiency.
 
 **Key Features**: Predictive speed optimization, traffic flow analysis.
@@ -236,7 +291,7 @@ This section provides a glimpse into projects I've developed. For quick navigati
 
 ---
 
-### 6. Estimate Golf Ball Trajectory
+### 7. Estimate Golf Ball Trajectory
 **Description**: An AI solution for analyzing golf swings and estimating ball trajectory, valuable for sports analytics and player performance improvement.
 
 **Key Features**: Trajectory estimation, sports motion analysis.
@@ -247,7 +302,7 @@ This section provides a glimpse into projects I've developed. For quick navigati
 
 ---
 
-### 7. Pixel-Wise Segmentation of Spare Parts for 3D Printing
+### 8. Pixel-Wise Segmentation of Spare Parts for 3D Printing
 **Description**: A tool that performs precise pixel-wise segmentation of spare parts from images, enabling identification of components suitable for 3D printing or requiring rework.
 
 **Key Features**: High-precision segmentation, industrial application for additive manufacturing.
@@ -265,7 +320,7 @@ This section provides a glimpse into projects I've developed. For quick navigati
 
 ---
 
-### 8. Food Recognition App
+### 9. Food Recognition App
 **Description**: A cross-platform (iOS & Android) AI application that identifies food items (packaged or fresh) and performs OCR on labels to extract nutritional information such as brand names, nutrient data, and portion sizes.
 
 **Key Features**: >90% accuracy, optimized for CPU/GPU inference, OCR on labels, cross-platform.
@@ -276,7 +331,7 @@ This section provides a glimpse into projects I've developed. For quick navigati
 
 ---
 
-### 9. Python Library: AutoToloka
+### 10. Python Library: AutoToloka
 **Description**: A Python library designed to accelerate dataset preparation and crowdsourcing. It utilizes interactive segmentation and multi-modal networks to automate a significant portion of manual labeling, reducing costs and effort.
 
 **Key Features**: Reduces labeling costs, scalable, integrates with pipeline tools and cloud providers.
@@ -287,7 +342,7 @@ This section provides a glimpse into projects I've developed. For quick navigati
 
 ---
 
-### 10. Python Library: shiftlab-ocr
+### 11. Python Library: shiftlab-ocr
 **Description**: A specialized Python library for handwriting text segmentation and character recognition.
 
 **Tech Stack**: Python, OCR, Image Segmentation.
@@ -296,7 +351,7 @@ This section provides a glimpse into projects I've developed. For quick navigati
 
 ---
 
-### 11. Face Antispoofing & Multi-Modal Vision-Language Models
+### 12. Face Antispoofing & Multi-Modal Vision-Language Models
 **Description**: An experimental project focused on tackling face authentication spoofing. It leverages CLIP and other multi-modal architectures to bridge text-image embeddings with specialized neural networks for enhanced security.
 
 **Key Features**: Anti-spoofing, multi-modal learning, security application.
@@ -307,7 +362,7 @@ This section provides a glimpse into projects I've developed. For quick navigati
 
 ---
 
-### 12. GitHub Repo Summarizer (Chrome Extension)
+### 13. GitHub Repo Summarizer (Chrome Extension)
 **Description**: A Chrome extension that fetches and summarizes the code structure of GitHub repositories. It operates locally using the user's GitHub personal access token, ensuring privacy as no data is sent to external servers.
 
 **Key Features**: Privacy-first (local token usage), automated repository structure summarization.
@@ -321,7 +376,7 @@ This section provides a glimpse into projects I've developed. For quick navigati
 
 ---
 
-### 13. ChatGPT|Codex|Deepseek|AIStudio Navigator (Chrome Extension)
+### 14. ChatGPT|Codex|Deepseek|AIStudio Navigator (Chrome Extension)
 **Description**: A Chrome extension enhancing the user experience on ChatGPT, DeepSeek, and Google AI Studio. It adds a keyboard-accessible scrollbar with "message dots" for instant navigation to any message, a lightweight prompt-autocomplete panel, and prompt sharing/ranking.
 
 **Key Features**: Improved chat navigation, prompt autocomplete, community-ranked prompts.
@@ -339,7 +394,7 @@ This section provides a glimpse into projects I've developed. For quick navigati
 
 ---
 
-### 14. Task Zavod – Micro-Task Marketplace
+### 15. Task Zavod – Micro-Task Marketplace
 **Description**: A platform for building, validating, and automatically processing payouts for micro-tasks. It addresses the complexities of crowdsourcing QA by allowing business users to define tasks in free-form text, which VLMs convert to structured tasks. Workers complete tasks via web or Telegram, with VLM-based auto-approval.
 - Auto debug reports and feature requests for automated developer tasks
 - Support real task performers  
@@ -369,7 +424,7 @@ This section provides a glimpse into projects I've developed. For quick navigati
 
 ---
 
-### 15. Trending Prompts Feed
+### 16. Trending Prompts Feed
 **Description**: A Reddit-style board for discovering and sharing usefull AI prompts, built with a Tornado backend. It features real-time trending scores based on upvotes/downvotes and integrates with the "ChatGPT|Deepseek|AIStudio Navigator" extension for prompt suggestions.
 
 **Problem**: In this era we facing the need to learn how to communicate with AI effectively, enhancing our productivity but with care of our mental health.
@@ -387,7 +442,7 @@ This section provides a glimpse into projects I've developed. For quick navigati
 
 ---
 
-### 16. LastAdjust – Universal Media Tuner
+### 17. LastAdjust – Universal Media Tuner
 **Description**: A Swiss-army-knife for quick media tweaks — add text to PDFs, batch resize/crop images, or trim/convert videos — all running on serverless OpenCV/FFmpeg workers.
 
 **Key Features**: Fast serverless media processing, PDF text annotation, batch image manipulation, video editing tools.
@@ -398,7 +453,7 @@ This section provides a glimpse into projects I've developed. For quick navigati
 
 ---
 
-### 17. LocaBoost AI – Local SEO Auditor
+### 18. LocaBoost AI – Local SEO Auditor
 **Description**: Paste any business address to get instant AI-driven insights on local search strength, competition density, and actionable optimisation tips.
 
 **Key Features**: AI-driven SEO analysis, competitive landscape visualization, actionable local search recommendations.
@@ -409,7 +464,7 @@ This section provides a glimpse into projects I've developed. For quick navigati
 
 ---
 
-### 18. Aetheria – Ideas-to-Media Engine (alpha)
+### 19. Aetheria – Ideas-to-Media Engine (alpha)
 **Description**: Generates short movie scenes with AI CGI, writes stories from ideas, and provides music direction, critic insights, voices, narrations, and comics plots.
 
 **Key Features**: Multi-modal media generation (video, story, music, voice), creative concept development, AI-powered CGI.
@@ -420,7 +475,7 @@ This section provides a glimpse into projects I've developed. For quick navigati
 
 ---
 
-### 19. Insight Glitch – A Novella
+### 20. Insight Glitch – A Novella
 **Description**: A short sci-fi novella exploring AI singularity beyond typical combat tropes. It chronicles the final moments of human relevance as a god-like AI, Nomos, doesn't eradicate humanity but gently archives it, rendering our civilization a beautiful but finished prelude to a new cosmic consciousness.
 
 **Significance**: This creative work was developed using the conceptual framework of the `Aetheria – Ideas-to-Media Engine`. It serves as a practical demonstration of taking a core philosophical idea ("What if a superintelligent AI archives us instead of fighting us?") and developing it into a complete narrative with deep world-building, complex themes, and a distinct literary voice.
@@ -431,7 +486,7 @@ This section provides a glimpse into projects I've developed. For quick navigati
 
 ---
 
-### 20. ChronoScribe (beta)
+### 21. ChronoScribe (beta)
 **Description**: Upload an image of an ancient stele or image containts ancient text and get a translation into English or Russian, with an option for a scenic voice narrator reading the text in a character voice reflecting the context and time epoch of the text or symbols.
 
 **Key Features**: OCR for historical texts, AI-powered translation, character-driven voice synthesis.
@@ -442,7 +497,7 @@ This section provides a glimpse into projects I've developed. For quick navigati
 
 ---
 
-### 21. MCP-Server – Base Muititools
+### 22. MCP-Server – Base Muititools
 **Description**: The backbone for orchestrating VLM/LLM demo agents. Exposes declarative pipeline configs, autoscaling workers, and real-time event feeds. Can be integrated with other services.
 
 **Key Features**: Declarative AI pipelines, autoscaling infrastructure, real-time event monitoring, orchestration for VLM/LLM agents.
@@ -453,7 +508,7 @@ This section provides a glimpse into projects I've developed. For quick navigati
 
 ---
 
-### 22. Tool-Calls Demo – Realtime OpenAI models calling
+### 23. Tool-Calls Demo – Realtime OpenAI models calling
 **Description**: Showcases OpenAI’s tool-calling flow with streaming function arguments, multi-voice synthesis, and a secure serverless token proxy.
 
 **Key Features**: Streaming tool calls, multi-voice TTS, secure serverless architecture.
@@ -463,10 +518,10 @@ This section provides a glimpse into projects I've developed. For quick navigati
 **Live Demo**: [https://tool-calls-1095464065298.us-east1.run.app](https://tool-calls-1095464065298.us-east1.run.app)
 
 
-### 23. Robot Teleoperate 
+### 24. Robot Teleoperate 
 In the era of humonoid robots, there is need to help robots with daily challenges. A service platform designed to remotely assist and control humanoid and service robots when they encounter challenges or become stuck in daily operations.  The idea is to provide a “robot rescue” on demand – a human operator can instantly connect to the robot via a simple interface, take control, and guide it through the problem. This ensures robots in homes, warehouses, or on delivery routes are never immobilized for long.
 
-### 24. YOFO 
+### 25. YOFO 
 **Description**: Service for solo devs who magage post production pet apps to automate pet startup development Full-cicle development, ci-cd, analytics integration, agentic control
 ---
 
