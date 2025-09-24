@@ -177,7 +177,7 @@ This section provides a glimpse into projects I've developed. For quick navigati
 
 **Links**: [Live Demo](https://project018-mcp-1095464065298.us-east1.run.app/)
 
-![Project18 Automation Stack](https://placehold.co/600x400?text=Project18 "Project18 Automation Stack")
+![Project18 Automation Stack](samples/build_auto/project018.png "Project18 Automation Stack")
 
 **Topology Snapshot**:
 
@@ -214,7 +214,7 @@ Integration Layer (Connectors via MCP)
         v
 Operations Layer (Console, Alerts, Runbooks)
 ```
-![Project018](samples/build_auto/project018.png "Project018")
+
 
 ---
 
